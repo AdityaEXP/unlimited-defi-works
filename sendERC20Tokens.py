@@ -3,6 +3,7 @@ from web3 import Web3
 from web3.exceptions import ContractLogicError, SolidityError
 
 RPC_URL = ""
+CHAIN_ID = ""
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
 
 
@@ -20,7 +21,7 @@ def sendTokenFromWallet(from_add, to_add, token_contract, private_key):
         web3.toChecksumAddress(to_add),
         int(avail_amount * 10 ** decimal)
     ).buildTransaction({
-        "chainId": 56,
+        "chainId": int(CHAIN_ID),
         'from': from_add,
         'gasPrice': gasPrice,
         'nonce': web3.eth.getTransactionCount(from_add)
