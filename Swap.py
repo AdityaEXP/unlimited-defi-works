@@ -8,6 +8,9 @@ from web3.exceptions import ContractLogicError, SolidityError
 web3 = Web3(Web3.HTTPProvider(config.RPC_URL))
 
 
+def getGasPrice():
+    return web3.eth.gasPrice
+
 def SwapTokens(toBuy, WBNB_Address, TokenToSellAddress, contractPancake, walletAddress, symbol, web3, private_key, amountMinOut = 0):
     toBuyBNBAmount = str(toBuy)
     toBuyBNBAmount = web3.toWei(toBuyBNBAmount, 'ether')
