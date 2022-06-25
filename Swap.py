@@ -11,6 +11,11 @@ web3 = Web3(Web3.HTTPProvider(config.RPC_URL))
 def getGasPrice():
     return web3.eth.gasPrice
 
+def getContractPancake():
+    with open('./ABI/abi.json', 'r') as file: abi = json.load(file)
+    contractPancake = web3.eth.contract(address=web3.toChecksumAddress(config.CONTRACT_PANCAKE), abi=abi)
+    return contractPancake
+
 def SwapTokens(toBuy, WBNB_Address, TokenToSellAddress, contractPancake, walletAddress, symbol, web3, private_key, amountMinOut = 0):
     toBuyBNBAmount = str(toBuy)
     toBuyBNBAmount = web3.toWei(toBuyBNBAmount, 'ether')
