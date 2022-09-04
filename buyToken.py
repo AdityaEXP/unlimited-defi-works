@@ -28,35 +28,6 @@ def getAmountsOut(base_address, token_address, base_amount):
     ).call()
 
     return result[1]
-  
-  def buyWithSlippageProtection(amount_bnb, receipt_address, target_token_address, slippage):
-    """
-    amount_bnb: 0.001
-    receipt_address: 0xxxxx
-    target_token_address: 0xxxxx
-    slippage: 0.15%, 0.5%
-    """
-
-    result = getAmountsOut(
-        config.WBNB_ADDRESS,
-        web3.toChecksumAddress(target_token_address),
-        amount_bnb * 10 ** 18
-    )
-    slippageAmount = result - (result * (slippage))
-    swap_func = contract.functions.swapExactETHForTokens(
-        int(slippageAmount),
-        [config.WBNB_ADDRESS, target_token_address],
-        web3.toChecksumAddress(receipt_address),
-        int(time.time() + 1000000000)
-    )
-
-    return swap_func
-  
-from seatrader import config
-from seatrader.utils.web3Provider import getAmountsOut, roundToNearestZero
-from web3 import Web3
-import time, os, json
-
 
 web3 = Web3(Web3.HTTPProvider(config.RPC_URL))
 with open(os.getcwd().replace('\\', '/') + '/seatrader/ABI/router.json', 'r') as file: abiRouter = json.load(file)
