@@ -5,6 +5,7 @@ import json, os, re
 class config:
   CONTRACT_PANCAKE = "" #Router address
   WBNB_ADDRESS = "" #Address of the main token bnb, eth 
+  RPC_URL = "" #RPC Url Here
 
   
 def getContractPancake():
