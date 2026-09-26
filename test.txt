@@ -1,0 +1,4422 @@
+: Einzbern Castle, Germany — Eight Years Ago —
+Nurse: Master Kiritsugu!
+Nurse: Your child's been born!
+Iris: She's so beautiful.
+Iris: So small... So delicate.
+Iris: Look, Kiritsugu. She has your eyes.
+Iris: I'm so happy to have given birth to such a beautiful baby...
+Kiri: Iri.
+Kiri: I...
+Kiri: You're going to die because of me.
+Iris: I know.
+Iris: The Einzberns desire nothing further.
+Iris: That is my purpose.
+Iris: I am who I am today because I took your ideals to heart,
+Iris: and I pray for the same things as you.
+Iris: You showed me a better path.
+Iris: You granted me a life beyond that of a mindless puppet.
+Iris: You don't need to feel sorry.
+Iris: I'm a part of you now.
+Iris: So...
+Kiri: I...
+Kiri: I...
+Kiri: I have no right to hold...
+Kiri: ...our child.
+Iris: Kiritsugu, do not forget.
+Iris: You desire a world where no one has to cry the way you are now.
+Iris: That is your dream and ideal, as well as that of Emiya Kiritsugu.
+Iris: In a mere eight years, your battle will end.
+Iris: And our ideal will become reality.
+Iris: The Holy Grail will save you.
+Iris: So hold her... Hold Illyasviel in your arms.
+Iris: And take pride in your only daughter...
+Iris: ...as any father would.
+Iris: {\fad(447,1)}Torino, Italy — Three Years Ago —
+Kirei: Command Spells?
+Toki: The mystical stigmata marking your right hand.
+Toki: It's proof that the Holy Grail has chosen you,
+Toki: endowing you with the power to command a Servant.
+Toki: Kotomine Kirei-kun.
+Kire: The Holy Grail War...
+Kire: The battle for that legendary holy artifact
+Kire: has chosen me?
+Toki: Normally, the Grail selects seven people, as Masters to the Servants,
+Toki: each of whom would be a mage.
+Toki: For one such as yourself,
+Toki: with no connection to magic, to be chosen this early is exceedingly rare.
+Kire: Servants...
+Kire: Heroes, summoned from the past, who fight alongside you... it all seems so...
+Toki: I realize it may be hard to believe,
+Toki: but legendary heroes, of past eras and countries across the world,
+Toki: will be summoned here, to fight to the death.
+Toki: That is the essence of the Holy Grail War.
+Rise: Of course, there is an unspoken pact among all the participants that the war must remain secret.
+Rise: In order to guarantee everyone's compliance,
+Rise: we of the Holy Church designate an impartial observer.
+Kire: Can a member of our Church act as an arbitrator
+Kire: in a war amongst mages?
+Kire: The impartiality of someone
+Kire: selected by the Magus Association could never be trusted.
+Kire: So once again, we will ask your father to oversee our battle,
+Kire: as he did sixty years ago.
+Kire: My father will be in Fuyuki City? {D: TC - this was "Father, you'll be in Fuyuki?" I believe that's a mistranslation. Please verify that my version is correct. If not, revert. If you revert, though, consider whether having the title "Father" is a great idea in a section where they're discussing his biological father}
+Kire: But if the impartial observer's son
+Kire: is a participant, would that not constitute a conflict of interest?
+Rise: Tokiomi-kun.
+Toki: Let us come to the point.
+Rise: Kirei, everything we've discussed so far is common knowledge
+Rise: to those involved with the Holy Grail War.
+Rise: The reason I called you here and introduced you to Tohsaka Tokiomi lies elsewhere.
+Kire: And that would be?
+Toki: Many years ago, we found evidence that the Holy Grail
+Toki: that will appear in Fuyuki City is not the same
+Toki: as that which once belonged to the Son of God.
+Kire: I thought as much.
+Kire: If it were, we of the Assembly of the Eighth Sacrament would have been issued retrieval orders.
+Rise: Regardless, this Holy Grail of Fuyuki City
+Rise: is too powerful for us to ignore.
+Rise: The Grail can, quite literally, grant any wish imaginable.
+Rise: Who knows what catastrophe might befall us
+Rise: should it fall into the wrong hands?
+Toki: Thus,
+Toki: if we could, at least,
+Toki: ensure that Fuyuki's Holy Grail will select worthy individuals,
+Toki: it would be irresponsible not to act.
+Rise: The Tohsaka family may be a clan of mages,
+Rise: but they have long been allies of our Church.
+Rise: We know Tokiomi-kun very well,
+Rise: and he has made his intention for the Grail perfectly clear...
+Toki: To reach the source.
+Toki: That has always been the Tohsakas' sole ambition.
+Toki: Once, the Einzberns and the Matous shared that ambition,
+Toki: but they have since strayed.
+Rise: As for the Masters outside the families,
+Rise: the less said, the better.
+Rise: There's no telling what vile dreams fuel their lust for the Grail.
+Kire: Then my reason to participate in the next Holy Grail War
+Kire: is to facilitate Tohsaka Tokiomi's victory?
+Toki: Obviously, in public we must act as enemies, each determined to win the Grail for himself.
+Toki: Privately, however, we will be working together
+Toki: in order to destroy the five other Masters
+Toki: and ensure our victory.
+Toki: That is our plan, Kirei-kun.
+Toki: We will transfer you from the Church to the Magus Association,
+Toki: where you will study under me.
+Rise: The order has already been issued.
+Toki: You will study magic, at my home in Japan.
+Toki: By the start of the Holy Grail War, three years from now,
+Toki: you must become a mage powerful enough
+Toki: to summon and command a Servant.
+Toki: So...
+Rise: Do you have any questions, Kirei?
+Kire: Just one.
+Kire: How does the Holy Grail choose the Masters?
+Toki: The Grail tries to select those who most need its power.
+Kire: You're saying all Masters have a reason to desire the Grail?
+Toki: Not necessarily.
+Toki: In the past, there have been cases of Command Spells appearing
+Toki: on people who would not normally be chosen.
+Toki: Ah, I understand now, Kirei-kun.
+Toki: You still don't know why it chose you.
+Toki: I'm surprised he accepted so readily.
+Rise: My son would leap into an inferno if the Church asked him to.
+Toki: I'd go so far as to say it was anticlimactic.
+Toki: From his point of view,
+Toki: he's been dragged into fighting a war in which he has no stake.
+Rise: No, I think this may be exactly what he needs.
+Rise: It's been mere days since he lost his wife.
+Rise: Having a new mission to devote himself to
+Rise: may help Kirei through his grief that much more quickly.
+Rise: Fuyuki City, Japan — One Year Ago —
+Kari: Aoi-san.
+Aoi: Kariya-kun, welcome home.
+Aoi: Are you home from your trip?
+Aoi: This one was quite long, wasn't it?
+Kari: Yeah, I know...
+Rin: Uncle Kariya!
+Rin: Uncle Kariya, you're home!
+Kari: Rin-chan.
+Rin: Did you bring me a present?
+Aoi: Rin, where are your manners?
+Kari: Here you go.
+Rin: Thank you!
+Kari: I'm glad you like it.
+Kari: Where's Sakura-chan?
+Rin: Sakura's gone.
+Kari: Aoi-san...
+Aoi: Sakura is no longer my daughter or Rin's sister.
+Aoi: She...
+Aoi: She is at the Matou manor.
+Kari: Why?
+Aoi: Why do the Matous want a child with magical blood?
+Aoi: You know why.
+Aoi: The Tohsaka and the Matou have been allies for generations.
+Aoi: The Tohsaka elders decided to grant the Matous' petition.
+Aoi: There was nothing I could say.
+Kari: And that's it?
+Aoi: I accepted that this could happen
+Aoi: when I married into the Tohsaka family,
+Aoi: when I became a mage's wife.
+Kari: You're okay with this?
+Aoi: Those from families bearing magical blood
+Aoi: can never hope for a happy, normal life.
+Kari: That's not true!
+Kari: You married him because you wanted that happiness...
+Aoi: This is between the Tohsaka and the Matou.
+Aoi: You turned your back on the world of magic.
+Aoi: It is no longer your concern.
+Aoi: If you do see Sakura again, be kind to her.
+Aoi: You two were always so close, Kariya-kun.
+Zou: You've got some nerve, showing your face here,
+Zou: you disgrace.
+Zou: I'm quite certain I told you I never wanted to see you again,
+Zou: Kariya.
+Kari: I hear you adopted a young Tohsaka girl.
+Zou: You heard right.
+Kari: You're really that desperate to ensure the Matou family magic?
+Zou: Are you, of all people, telling me that I'm wrong to do so?
+Zou: Whose fault is it that we have sunk to this state?
+Zou: Kariya...
+Zou: I wouldn't be in this situation
+Zou: had you simply done your duty to inherit the Matou family secrets.
+Zou: Yet you have the gall to lecture me...
+Kari: Enough, you vampire.
+Kari: You only want the Holy Grail so you can wish for immortality.
+Zou: Next year will mark sixty years.
+Zou: The house of Matou has no soldiers to fight in the Fourth Holy Grail War.
+Zou: And while once, you might have had what it takes to control a Servant,
+Zou: your older brother Byakuya does not.
+Zou: Even if we cannot win this war,
+Zou: I still have a plan for the one sixty years after.
+Zou: The Tohsaka girl is sure to bear powerful mages.
+Zou: To say nothing of her own potential.
+Kari: In other words, as long as you get your hands on the Grail,
+Kari: you have no particular use for Tohsaka Sakura.
+Zou: What are you getting at?
+Kari: I'll make you a deal, Zouken.
+Kari: During the next Grail War, I'll win the Holy Grail for the Matous.
+Kari: In exchange, you will free Tohsaka Sakura.
+Zou: Ridiculous.
+Zou: You, a quitter with no training, will become powerful enough
+Zou: in a single year to be a Servant's Master?
+Kari: I know you have a method that could accomplish that...
+Kari: Your creepy little creatures.
+Zou: Hmm?
+Kari: Implant the Crest Worms in me!
+Zou: Kariya, do you have a death wish?
+Kari: The Matous should do their own dirty work.
+Kari: I won't let an innocent outsider be dragged into this.
+Kari: Don't tell me you're worried about me, Dad.
+Zou: If you hoped to handle this before she became involved, Kariya...
+Zou: you've come to me too late.
+Kari: Monster...  You didn't...
+Zou: Oh, she cried and screamed for the first three days.
+Zou: But since the fourth day, she hasn't made a peep.
+Zou: First thing in the morning, I threw her down there
+Zou: to see how long she'd last.
+Zou: And there she is, still breathing a half day later.
+Zou: The Tohsakas are something else.
+Kari: Sakura!
+Zou: So, what will it be?
+Zou: Here's a broken shell of a girl, who's been violated
+Zou: by those worms, head to toe.
+Zou: Now, if you still wish to save her,
+Zou: I will accept your terms.
+Kari: Done.
+Zou: Just remember, until you fulfill your end of the bargain,
+Zou: I'll have Sakura continue her education.
+Zou: After all, my primary objective is still achieving victory in the next Holy Grail War.
+Zou: On the off-chance you do deliver the Grail to me,
+Zou: then I would, of course, have no further use for the girl.
+Zou: She'll only have had to endure one year of training.
+Kari: I'll hold you to your word, Matou Zouken.
+Zou: Lie there for a week, and allow them to use you as their breeding ground.
+Zou: If you don't go insane and die,
+Zou: I will acknowledge that you're serious about this.
+Kiri: It's here.
+Iri: What is?
+Kiri: A report from my spies in London.
+Kiri: Apparently, the Grail has chosen a Master from the Magus Association's highest tier,
+Kiri: the Clock Tower.
+Iri: Who is it?
+Kiri: A very dangerous man.
+Kiri: The eldest son of the infamous Archibald family of mages that has produced
+Kiri: nine consecutive generations of mages.
+Kiri: Kayneth El-Melloi Archibald.
+Kiri: {\fad(463,1)}Clock Tower, London — Present Day —
+Kaye: In the world of magic, pedigree determines rank.
+Kaye: This is because the secrets of magic
+Kaye: simply cannot be learned within a single generation.
+Kaye: The parents must spend their lives training,
+Kaye: and pass down the fruits of their labor to their children.
+Kaye: This is why the oldest magical families are the most powerful.
+Kaye: Some of you may be wondering
+Kaye: why I am presenting such basic knowledge.
+Kaye: Yesterday, a student turned in an essay.
+Kaye: The title is, "How Wizardry Should Be in the New Century."
+Kaye: This paper objects to the accepted theory that I have just presented.
+Kaye: It argues that a deeper understanding of spells
+Kaye: and skillful mana control
+Kaye: could enable someone to bridge the gap.
+Kaye: In other words, even someone with a very limited
+Kaye: magical pedigree could become a first-class mage.
+Kaye: I will admit that this essay taught me something.
+Kaye: Quiet!
+Kaye: I'll be clear.
+Kaye: Every word of this paper is drivel.
+Kaye: Bloodlines determine magical skill.
+Kaye: That is an irrefutable truth.
+Kaye: Mr. Waver Velvet...
+Kaye: I find it lamentable that one of my students would harbor
+Kaye: such delusional beliefs.
+Wave: Sir, I only wanted to raise the issue to the Magus Association because they haven't addressed it—
+Kaye: Mr. Waver!
+Kaye: Your family has
+Kaye: only produced three generations of mages, correct?
+Kaye: It seems to me that, compared to the Association's long history,
+Kaye: your family is still a crying infant.
+Kaye: And a baby must learn to speak before he can talk back to his parents.
+Wave: That egotistical blowhard, making a fool of me!
+Wave: And he calls himself a professor?
+Wave: My thesis just made him jealous!
+Wave: He's afraid of my talent!
+Wave: That's why he wanted to humiliate me in public.
+Jan: Whoops, sorry...
+Jan: You all right?
+Wave: Y-Yes...
+Jan: You one of the Necromancy students?
+Jan: Shouldn't you be at your lecture?
+Wave: I, uh...
+Wave: Professor Archibald wanted me to run an errand for him,
+Wave: so I'm in a bit of a hurry...
+Jan: Oh, how fortunate.
+Jan: Could you take this package to Professor Archibald?
+Wave: This package?
+Jan: It looks important, so I'm counting on you.
+Wave: Important...
+Wave: It's from Macedonia.
+Wave: There it is.
+Wave: So the rumors that Kayneth is fighting
+Wave: in some Far East magical war were true.
+Wave: The Holy Grail War...
+Wave: Two hundred years ago, the families known as "the three,"
+Wave: the Einzberns, Makiris, and Tohsakas,
+Wave: worked together to summon the Holy Grail,
+Wave: a holy artifact with the power to grant its bearer any wish.
+Wave: However, the Grail can only answer one prayer.
+Wave: Their alliance disintegrated into a brutal, bloody war.
+Wave: That is the origin of the Holy Grail Wars.
+Wave: Ever since,
+Wave: the Holy Grail has appeared in Fuyuki City
+Wave: once every sixty years.
+Wave: The Grail selects seven mages it deems worthy to possess it.
+Wave: And it enables them to summon powerful heroes' spirits, known as Servants.
+Wave: Archer.
+Wave: Saber.
+Wave: Lancer.
+Wave: Rider.
+Wave: Assassin.
+Wave: Caster.
+Wave: Berserker.
+Wave: There can only be seven Servants, divided into the seven classes.
+Wave: Once summoned, they fight to the death, trying to establish
+Wave: who is truly worthy of possessing the Holy Grail.
+Wave: You don't need pedigree or influence in the Holy Grail War.
+Wave: You just need to be the most talented.
+Wave: I'm a perfect candidate for this!
+Wave: Additionally, one needs a relic that once belonged
+Wave: to the Servant, to act as a catalyst during their summoning.
+Wave: A relic...
+Kire: No matter how many times I see it, that device always bothers me.
+Toki: It's a report from Clock Tower.
+Toki: Lord El-Melloi has procured a new summoning relic.
+Toki: His participation is now assured.
+Kire: The fact that two open spots remain unnerves me.
+Toki: Don't worry.  The Grail will choose its seven, heedless of skill.
+Toki: That quota means most of the participants will be weak.
+Toki: No need to worry about them.
+Toki: In fact, Kirei, I'm more concerned that
+Toki: someone may have seen you enter this place.
+Kire: Don't be.
+Kire: No familiars or magical devices were guarding the mansion,
+Kire: not even invisible ones.
+Kire: Of that...
+Ass: Of that, I assure you.
+Ass: I am Hassan, master strategist, and no petty tricks will escape my eye.
+Ass: I sense no presences in this vicinity, Master.
+Ass: Please put your mind at ease.
+Kire: My father will know immediately,
+Kire: once another Servant is summoned.
+Kire: I believe the other mages will wait before acting.
+Kire: Assassin, we are done here.
+Kire: Continue guarding the outside.
+Ass: As you wish.
+Toki: It's only a matter of time.
+Toki: Soon, the other Masters' familiars will be lurking about this place.
+Kire: What's that?
+Toki: A separate matter.
+Toki: I've been gathering intelligence on the Einzbern Master.
+Toki: It's been about nine years now...
+Toki: The Einzberns are famously proud of the purity of their blood,
+Toki: but then, they unexpectedly adopted a mage from outside the family.
+Toki: Combat never suited the Einzberns,who had focused their efforts on alchemy.
+Toki: That is the reason they lost the previous Holy Grail Wars.
+Toki: Finally, I suppose they'd had enough.
+Toki: The mage they adopted is a man who will be a great asset to them.
+Toki: Emiya Kiritsugu.
+Toki: The man known as the Mage-Slayer.
+Acht: After years of searching, we've finally found the relic
+Acht: we sought in Cornwall.
+Acht: Use it as your catalyst,
+Acht: and the swordsman you summon will surely be
+Acht: the strongest of all the Servants.
+Acht: Kiritsugu.
+Acht: The Einzberns can offer you no greater gift than this.
+Kiri: I am deeply in your debt, Elder.
+Ahat: Leave no survivors.
+Ahat: Slay the other six Servants,
+Ahat: and complete the Third Magic, Heaven's Feel.
+Kiri: I will.
+Kire: Emiya Kiritsugu...
+Kire: I've heard that name before.
+Toki: So his reputation has even reached within the Church walls.
+Toki: The Mage-Slayer was quite infamous in his day.
+Toki: He appears to be a mere rogue mage,
+Toki: with no connection to the Association,
+Toki: but the higher-ups were not above
+Toki: using his services to their benefit.
+Kire: Like our Church's Executors?
+Toki: Even worse.
+Toki: This man is best described as a freelance assassin
+Toki: who specializes in murdering mages.
+Toki: He knows how mages think,
+Toki: and he uses tactics utterly unsuited to a mage
+Toki: to eliminate his targets.
+Toki: Read the report.
+Kire: Sniping...  Poison...
+Kire: Bombs in broad daylight...
+Kire: Bringing down an entire airplane,
+Kire: just because his target was a passenger on it!
+Toki: He uses these underhanded tactics shamelessly.
+Toki: Because we, as mages,
+Toki: live separate from the world's general laws,
+Toki: it is paramount that we follow the laws we've made for ourselves.
+Toki: But this man lacks even a shred of pride as a mage.
+Toki: His methods are inexcusable.
+Kire: So, this Emiya Kiritsugu...
+Kire: Why did he become an assassin?
+Toki: I assume it was for the money.
+Toki: As you can see in the report,
+Toki: he's been responsible for more than just killing mages.
+Toki: He's popped up in conflicts all over the world,
+Toki: bankrolling money by acting as a mercenary.
+Kire: May I borrow this report for a little while?
+Kiri: Let's review everything we have so far, Iri.
+Kiri: So far, we know four out of the seven Masters the Grail has chosen.
+Kiri: Tohsaka Tokiomi, head of the Tohsaka family.
+Kiri: A powerful, fire-natured mage, specializing in Gem Magic.
+Kiri: Matou Kariya.
+Kiri: This kid severed all ties with his family,
+Kiri: but they still took him in and made him a Master?
+Kiri: That old fart must be desperate.
+Kiri: Kayneth El-Melloi Archibald.
+Kiri: Dual natures of wind and water.
+Kiri: Expert in Necromancy, Summoning, and Alchemy.
+Kiri: And...
+Iry: Emiya Kiritsugu.
+Iry: Newest member of the Einzbern family, their secret weapon...
+Iry: And the man I love, with all my heart.
+Kiri: The fourth... Or rather, the fifth Master comes from the Church.
+Kiri: Kotomine Kirei.
+Iry: The Church?
+Kiri: He's the son of the judge, Father Kotomine Risei.
+Kiri: It says he studied under Tohsaka Tokiomi for three years,
+Kiri: but severed all ties with him once his Command Spells appeared.
+Ivy: What's wrong?
+Kiri: They have his whole life's story...
+Kiri: Have a look.
+Iry: Since childhood, Kotomine Kirei
+Iry: has accompanied his father, Risei, on holy pilgrimages.
+Iry: He attended Saint Ignatius of Manresa...
+Iry: Skipped two grades... And graduated at the top of his class?
+Iry: Talk about a prodigy.
+Kiri: Then he abandons the fast-track,
+Kiri: and enters the Church.
+Kiri: Why lower himself
+Kiri: to join one of the Church's secret organizations?
+Iry: Perhaps his father pushed him into it?
+Iry: See?  It says they both belong to
+Iry: the Assembly of the Eighth Sacrament.
+Kiri: If it were for his father, he would have followed that path from the start.
+Kiri: But he changed vocations three times,
+Kiri: before joining his father in the Assembly.
+Kiri: He even served as an Executor for a time.
+Iry: An Executor?
+Kiri: A heretic hunter.
+Kiri: Not unlike what I once was...
+Kiri: A mage-slayer.
+Kire: Emiya Kiritsugu.
+Kire: The assassinations that can be tied to him
+Kire: all occurred within a very short period.
+Kire: Simultaneously, he was hopping from one war zone to the next.
+Kire: Every time, it was when the battles were at their fiercest.
+Kire: It's as if he traveled the world seeking his own destruction.
+Kire: These are the actions of one with a death wish.
+Kire: What does it all mean?
+Kiri: Alchemy, Necromancy, Summoning, Divination, Healing.
+Kiri: Notice the variety of magic he's studied.
+Kiri: Why would he do that?
+Kiri: He'd train until he was one step short of full mastery,
+Kiri: and then he'd switch to a new category without a second thought.
+Kiri: It's as if he threw all that effort away, like it was meaningless.
+Kiri: Iri...
+Kiri: The way Kotomine Kirei lives terrifies me.
+Kire: It's like he is incapable of acting for his own benefit.
+Kire: No one would do these things
+Kire: had they taken the time to weigh the risk against the reward.
+Kire: There's no way he's just a freelancer in it for the money.
+Kiri: His whole life, he's never had a passion for anything.
+Kiri: He doesn't believe in anyone or anything.
+Kiri: He has no desire of his own.
+Kiri: I have to wonder...
+Kire: What is he after?
+Kiri: Why would he risk his life to obtain the Grail?
+Iry: However, the Grail chose Kotomine Kirei to be a Master.
+Kiri: Indeed.
+Kiri: So he must have a reason to covet the Grail, after all.
+Kiri: I just have no idea what it could be.
+Kiri: That's what scares me.
+Kiri: {\i1}Kotomine Kirei.
+Kire: {\i1}Emiya Kiritsugu.
+Kire: {\i1}After an age of nonstop combat,
+Kire: {\i1}he finally closed that chapter of his life nine years ago,
+Kire: {\i1}upon meeting the mages of the north, the Einzberns.
+Kire: {\i1}That is when he found his answer.
+Kire: {\i1}So the question is,
+Kire: {\i1}what was he seeking in those wars?
+Kire: {\i1}And what did he find?
+Zou: You made it, by the skin of your teeth.
+Zou: If the Grail chose you,
+Zou: it means you've substantially progressed as a mage.
+Zou: I'll give you credit, Kariya.
+Zou: You look like hell, though.
+Zou: Can you still feel your left leg?
+Zou: Easy, there.
+Zou: If the worms get too agitated,
+Zou: they'll devour you from the inside out.
+Zou: Either way, I give you a month to live, at best.
+Kariya: That'll be enough.
+Zou: What?
+Kariya: I said that'll be enough.
+Zou: Well, Kariya, as a reward for surviving the entire year,
+Zou: I brought you the perfect summoning relic.
+Zou: Don't let your old father's kindness go to waste.
+Wave: I've got a Command Spell!
+Wave: The Grail chose me!
+Wave: The Grail recognizes my talent!
+Wave: I don't have time to celebrate.
+Wave: I need to prepare for summoning my Servant!
+Wave: Serial Killings in Fuyuki
+Papa: Good morning, Waver.
+Nana: Morning, Waver!
+Wave: Morning, Grandpa... Grandma...
+Papa: Fuyuki is in real trouble.
+Nana: It's so sad.
+Papa: By the way, Martha...
+Papa: I thought I heard a bunch of roosters,
+Papa: crowing or something this morning.
+Papa: What's going on?
+Nana: There are three, out in the backyard.
+Papa: Our backyard?
+Nana: Yes. I wonder where they came from.
+Nana: Waver, would you like some coffee?
+Nana: Oh, Waver... Your hand!
+Wave: Uh-oh!
+Nana: That bruise!
+Papa: A bruise?
+Nana: That bruise wasn't there yesterday.
+Wave: Oh, damn...
+Wave: You just had to notice.
+Papa: What is it, Waver?
+Nana: Waver?
+Wave: Everything's fine.
+Wave: Here, have some coffee.
+Wave: I put extra milk in it,
+Wave: just the way you like.
+Wave: Here, coffee.
+Wave: Now I've gotta recast the whole spell
+Wave: to make these two think I'm their grandson, back from study abroad...
+Wave: What a pain.
+Wave: While I'm at it, best to add something about the roosters I stole.
+Kiri: They actually found the legendary sword's scabbard...
+Kiri: There isn't a scratch on it,
+Kiri: yet it's supposed to be 1,500 years old?
+Iry: The weapon itself is a type of Conceptual Armament.
+Iry: It won't weather or dull as an ordinary blade would.
+Iry: Simply equipping this scabbard
+Iry: will heal its wielder's wounds and keep them forever young.
+Iry: Just like in the legend.
+Iry: Of course, that only works given a steady supply of the original owner's mana.
+Kiri: In other words, paired with the hero,
+Kiri: this sword could be a Master's ultimate weapon.
+Iry: I knew you'd say something like that.
+Iry: A tool is nothing but a tool, right?
+Kiri: That applies to the Servant, too.
+Kiri: Once summoned, they're just another tool in their Master's arsenal,
+Kiri: no matter how famous or powerful they were in their own era.
+Kiri: There's no surviving this war
+Kiri: by deluding yourself into thinking otherwise.
+Iry: That attitude is exactly why my great-grandfather decided
+Iry: the scabbard would be the perfect relic for you.
+Kiri: I wonder about that.
+Iry: You don't care for his gift, then?
+Kiri: Don't be silly.
+Kiri: Acht really came through for us.
+Kiri: I'm positive that no other Master has such a powerful relic.
+Iry: Then what's the matter?
+Kiri: The bond between relic and owner is so strong,
+Kiri: we're sure to summon the exact spirit we're after.
+Kiri: Arthur Pendragon, the legendary King of Knights.
+Kiri: It won't even matter how well our personalities mesh.
+Iry: But, with Excalibur in our arsenal,
+Iry: the Saber class will yield the strongest possible Servant.
+Kiri: Exactly.
+Kiri: My Servant will boast power leagues beyond the other six.
+Kiri: The problem is I must find a way to fully harness that power.
+Kiri: Someone like myself would have a much easier time
+Kiri: commanding a Servant of the Assassin or Caster class.
+Iry: There's no point in worrying over that before the summoning.
+Iry: It's not as if we can know what the King of Knights was like in life.
+Iry: Besides, regardless of your tactics,
+Iry: once he learns of your ideals,
+Iry: he'll understand. I know he will.
+Iry: Just like I did.
+Iry: What?
+Kiri: I've got it.
+Kiri: A way to use the strongest Servant...
+Kiri: in the most effective way.
+Kire: Hello, Rin.
+Rin: Hello, Kirei.
+Kire: Going somewhere?
+Kire: That suitcase looks pretty heavy.
+Rin: Yeah, I'm going to live with the Zenjou family.
+Rin: And you're staying to fight alongside my dad, right?
+Kire: Yes, that's why I came here to study with him.
+Rin: Kirei... Can I trust you?
+Rin: Will you promise to protect my dad and keep him safe,
+Rin: until everything's all over?
+Kire: If only I could.
+Kire: If this war were simple enough that I could make that promise,
+Kire: we wouldn't need to send you and your mother away.
+Rin: You know what, I don't think I'm ever gonna like you!
+Kire: Rin, it's not polite to say such things,
+Kire: even if you think them.
+Kire: It reflects poorly on your father and on your upbringing.
+Rin: This doesn't concern my dad!
+Rin: Listen up, Kirei!
+Rin: If my dad gets hurt because you were goofing off,
+Rin: I'll kick your butt myself!
+Aoi: Rin, why are you yelling in the house?
+Rin: Um...
+Rin: I...
+Kire: She was just giving me a little pep talk before you left.
+Kire: Here, let me help.
+Kire: That suitcase is too heavy for you.
+Rin: No, I can do it.
+Aoi: Kotomine-san, please watch over my husband.
+aoi: Help him fulfill his wish.
+Kire: Don't worry. I'll do everything I can.
+Kire: Hello?
+Toki: Your timing is impeccable.
+Toki: The relic I requisitioned just arrived this morning.
+Toki: See for yourself.
+Kire: What is it?
+Toki: The fossilized, molted skin of the first snake, shed at the dawning of our world.
+Toki: If we use this as the catalyst to summon the spirit we're after,
+Toki: our victory is assured.
+Kari: Hi, Sakura-chan.
+Kari: Did I scare you?
+Saku: Your face...
+Kari: Oh, yeah...
+Kari: Looks like I let the worms get the better of me for a while.
+Kari: Your poor uncle isn't as tough as you are, you know.
+Saku: I feel like you're becoming a different person, Uncle Kariya.
+Kari: Maybe I am.
+Saku: Grandfather said I don't have to go down to the worm room tonight,
+Saku: since he needs the room for a more important ceremony.
+Kari: Yup, I know.
+Kari: In fact, I'll be going to the basement tonight.
+Saku: Are you going somewhere far away?
+Kari: Yes, I have a very important job to do.
+Kari: From now on, I might not have as much time to talk with you.
+Saku: Oh...
+Kari: Sakura-chan,
+Kari: when I finish my job, why don't we go somewhere fun?
+Kari: We'll bring your mother and sister, too.
+Saku: I don't have anyone to call a mother or sister.
+Saku: Grandfather told me to act as if they'd never existed at all.
+Kari: I see.
+Saku: Uncle?
+Kari: Then, we'll invite Aoi-san and Rin-chan from the Tohsaka manor,
+Kari: and the four of us will go somewhere far, far away, like we used to.
+Kari: We can all have fun together.
+Saku: I'll get to see them again?
+Kari: You bet.
+Kari: I promise.
+Kari: I have to go now.
+Saku: Okay.
+Saku: Bye-bye, Uncle Kariya.
+Saku: Bye-bye...
+Zou: You did learn the summoning spell, right?
+Kari: Yes.
+Zou: Good, but I'm going to have you insert two lines from a different incantation.
+Kari: What do you mean?
+Zou: It's simple.
+Zou: You, Kariya, are quite a bit little less capable
+Zou: as a mage, compared to the other Masters.
+Zou: And because of that, your Servant's basic stats will be degraded.
+Zou: Thus, we need to do something during the summoning itself
+Zou: to raise your Servant's innate abilities.
+Zou: Kariya, you will add an incantation
+Zou: that gives your Servant an affinity for madness.
+Wave: Fill, fill, fill, fill, fill!
+Wave: {\i1}Repeat it five times.
+Wave: {\i1}As each is fulfilled, so must it be destroyed.
+Kire: {\i1}A foundation of iron and silver...
+Kire: {\i1}Upon it rests the cornerstone and the Archduke of Contracts.
+Kire: {\i1}Above them, my ancestor, the great Master Schweinorg.
+Kire: {\i1}Become the wall that repels the gale.
+Kire: {\i1}The four gates close tightly. Now burst forth from the crown,
+Toki: {\i1}and follow the winding road that leads to the kingdom.
+Iry: Is this simple ceremony really sufficient to summon such a mighty hero?
+Kiri: I know it's disappointing, but yes.
+Kiri: The ceremony doesn't really require an incantation,
+Kiri: because it's actually the Grail itself that's doing the summoning.
+Kiri: As a Master, my job is to anchor the Servant's spirit to this world,
+Kiri: and to provide the mana it needs to manifest a physical body.
+Kiri: All set.
+Kiri: Iri, lay the scabbard on the altar.
+Kiri: That is the final step.
+Wave: {\i1}I call to thee.
+Wave: {\i1}Thy body, borne of my will.
+Wave: {\i1}My fate, resting on thy sword!
+Wave: {\i1}If thou wilt bend to my will, my justice,
+Wave: {\i1}heed the Grail's call, and give your answer!
+Kiri: {\i1}I swear before you,
+Kiri: {\i1}I will become all that is good in the world,
+Kiri: {\i1}and I shall eradicate all that is evil.
+Kari: {\i1}But thine eyes shalt be clouded by chaos.
+Kari: {\i1}Thou shalt be trapped in a cage of madness,
+Kari: {\i1}and I shalt hold thy chains!
+Toki: {\i1}Seven Heavens, clad in the three holy souls,
+Toki: {\i1}cast aside your shackles and come forth...
+Toki: {\i1}Guardian of the Scales!
+Toki: We've won, Kirei.
+Toki: Victory...
+Toki: ...is ours!
+Kiri: You are...
+Saber: I ask of you...
+Saber: Are you my Master?
+Saber: Episode 1 The Summoning of Heroes
+Saber: I believe that you and Kiritsugu are fighting for a noble cause.
+????: There is no place for two kings.
+Kire: I promise.
+????: You're not even fit to look at me.
+????: You are so cool!
+Kiri: Your first mission is to slay Tohsaka Tokiomi.
+Kiri: Next Time The Fake First Shot
+Wave: Rider...
+Wave: Why break through the shutter, you fool?
+Wave: Couldn't you just dematerialize, the way you did when you entered?
+Rider: If I'd dematerialized, I couldn't have carried these out.
+Rider: Don't get so worked up.
+Rider: You make it sound like I'm some sort of thief.
+Wave: If you're not a thief, then what are you?
+Rider: There's a big difference.
+Rider: A common burglar simply sneaks away, under cover of darkness,
+Rider: but he who departs the battlefield
+Rider: singing a song of victory is a conqueror!
+Wave: Fine, whatever...  Just go!
+Wave: Go on, get lost!  Get out of here!
+Rider: Okay, then I entrust the items into your care.
+Rider: Don't drop them, okay?
+Wave: Why did things turn out like this?!
+Wave: T-The summoning went perfectly.How did I end up doing this?
+Wave: World Atlas
+Wave: Homer's Odyssey
+Wave: What do we need these books for, anyway?
+Rider: To prepare for war, as I said.
+Rider: You cannot enter battle without a map of the terrain.
+Rider: Hey, boy...  Where are Macedonia and Persia?
+Wave: Don't address me like that!
+Wave: I'm your Master―
+Rider: I am aware that you are my Master...
+Rider: Did I not form a pact with you?
+Rider: Anyway...
+Rider: I asked you where my former kingdom lies.
+Wave: Around here, I guess.
+Rider: It's so small!
+Rider: To think, that's all the land I worked so hard to rule.
+Rider: Incredible...  My heart thunders!
+Rider: Now, boy, where on this map are we right now?
+Wave: Over here.
+Rider: Ah, the other side of the great round continent.
+Rider: Invigorating!
+Rider: It's settled.  My compass of war has decided our course.
+Wave: Compass?
+Rider: We'll start by going halfway around the world.
+Rider: We head west...  Due west!
+Rider: And we conquer every country that falls in our path!
+Rider: And when I make my triumphant return to Macedonia,
+Rider: I'll hold a great celebration, in honor of my resurrection.
+Rider: Does it not inflame your heart?
+Wave: Have you forgotten why you're here?
+Wave: To fight for the Holy Grail!
+Wave: The Grail!
+Rider: Right, I must question you about that.
+Rider: How do you intend to use the Grail, boy?
+Wave: W-Where did that come from?
+Wave: What concern is it of yours, anyway?
+Rider: If your goal is also to rule the world,
+Rider: that would make us enemies.
+Rider: There is no room for two rulers.
+Wave: Rule the world?
+Wave: A-All I...
+Wave: All I want is to be treated fairly.
+Wave: I want to force those Clock Tower idiots to acknowledge my talent,
+Wave: and change their methods.
+Rider: You think too small!
+Rider: Small, narrow, and pointless.
+Rider: The grand dream you fight for
+Rider: amounts to nothing but others' validation?
+Rider: And you are my Master?
+Rider: I'm utterly disgusted!
+Rider: If having others respect you is truly of such importance...
+Rider: ...you should ask the Grail to make you taller by another thirty centimeters.
+Wave: {\i1}This lowly Servant...
+Wave: {\i1}I'll show you!
+Wave: {\i1}I'll use a Command Spell.
+Wave: {\i1}You will obey the rules of the Grail,
+Wave: {\i1}Lord of Asia, Iskandar!
+Wave: {\i1}Calm down, Waver.
+Wave: {\i1}A Master receives only three Command Spells to force his Servant's obedience.
+Wave: {\i1}If I use all three,
+Wave: {\i1}I won't be able to control him anymore.
+Wave: All I care about is getting the Holy Grail.
+Wave: After that, you're free to do whatever you—
+Rider: Enough!
+Rider: I'll get you the damned Grail.
+Wave: You seem pretty sure of yourself,
+Wave: but do you actually have a plan?
+Rider: You wish to see what I am capable of?
+Wave: O-Of course I do.
+Wave: Prove to me that I can count on you!
+Rider: With this strike, I, Iskandar,
+Rider: Lord of Asia, claim this land!
+Rider: A gift, originally given to King Gordias, from Zeus himself.
+Rider: This must be the reason
+Rider: I was summoned as a Rider.
+Rider: If you desire the Grail,
+Rider: locate some of the other Heroic Spirits.
+Rider: Until then, I shall stare
+Rider: at those maps, attempting to stave off boredom.
+Rider: Now, are you satisfied?
+Ilya: Okay, I'll be first today, for sure.
+Kiri: Found one.
+Ilya: No way!  Where, where?
+Ilya: I couldn't have missed it!
+Kiri: The day's first walnut bud.
+Kiri: I'm on the board first.
+Ilya: I-I'm not gonna lose!
+Ilya: Oh, there's one!
+Ilya: I found one, too.
+Kiri: Your dad found his second.
+Ilya: Hey, that isn't a walnut, is it?
+Kiri: Actually, it's called a wingnut.
+Kiri: It's a cousin to the walnut.
+Kiri: So it still counts as a walnut bud, see?
+Ilya: No fair!
+Ilya: No fair, no fair, no fair!
+Ilya: You're cheating, Kiritsugu!
+Kiri: I have to.  It's my only shot at winning.
+Ilya: If you keep cheating,
+Ilya: I won't play with you anymore, Kiritsugu!
+Kiri: Oh, I don't want that!
+Kiri: I apologize.  I'm sorry...
+Ilya: Promise you won't cheat again?
+Kiri: I promise.
+Ilya: Okay.
+Ilya: Then we'll play again.
+Ilya: The champion will answer your challenge anytime.
+Kiri: I am honored...
+Kiri: my princess.
+Ilya: Whee!  I'm up high!
+Iry: What are you looking at, Saber?
+Saber: I was watching your daughter and Kiritsugu playing in the woods.
+Iry: Does it surprise you?
+Saber: I was under the impression
+Saber: that my Master was a cold, ruthless man.
+Iry: I can't blame you.
+Saber: If this is my Kiritsugu's true nature,
+Saber: I fear he may be disappointed to be my Master.
+Saber: There is nothing funny about that, Irisviel!
+Iry: I apologize.
+Iry: Actually, I wondered if you were still
+Iry: upset over what happened at the summoning.
+Saber: A little.
+Saber: I understand that I had pretended to be a man,
+Saber: but there was no reason for you both to be as shocked as you were.
+Iry: I know, but there was no helping it.
+Iry: The stories about you, about King Arthur, are known worldwide.
+Saber: Perhaps Kiritsugu...
+Saber: thought less of me, upon learning that I am a woman.
+Iry: He'd never think that.
+Iry: But...
+Iry: Yes.
+Iry: He was upset, but over another matter.
+Saber: What was it?
+Iry: I think, maybe...
+Iry: He was angered by the people around you.
+Iry: The ones who cruelly forced a young girl to become a king.
+Saber: They had no choice.
+Saber: When I drew the sword from the stone,
+Saber: I accepted my destiny.
+Iry: Perhaps your resignation to your fate bothered him
+Iry: all the more.
+Saber: I have no need for his sentiment.
+Saber: He hasn't the right
+Saber: to say anything about the choices made
+Saber: by those of my era, including me.
+Iry: That is why he has kept his silence.
+Iry: He fears Emiya Kiritsugu and the hero Arturia
+Iry: can never see eye-to-eye.
+Iry: He may have already given up on trying.
+Saber: Both Kiritsugu and you wish to use the Holy Grail's power
+Saber: to save the world, correct?
+Iry: Yes, although in my case, I merely parrot his wish.
+Saber: I would use the Holy Grail for the same purpose.
+Saber: I wish to save Britain, the homeland I was unable to protect alone.
+Saber: I believe that you and Kiritsugu are fighting for a noble cause.
+Saber: You should take pride in it.
+Ryuu: Fill, fill, fill, fill...
+Ryuu: Repeat it four times...
+Ryuu: Or was it five?
+Ryuu: As each is fulfilled, so must it be destroyed...
+Ryuu: Right?
+Ryuu: Fill, fill, fill, fill, fill.
+Ryuu: {\an8\i1}Next, a report on the Fuyuki City serial murders.
+Ryuu: Okay!
+Ryuu: There we go, five times.
+Ryuu: All right?
+TV: {\an8\i1}Police are reporting that in each of the three known incidents,
+TV: {\an8\i1}designs resembling magic sigils drawn with the victim's blood were found at the scene.
+Ryuu: Guess I've made a bit of a scene...
+Ryuu: {\an8\i1}We will interview a criminal psychologist about what these magic sigils might mean―
+Ryuu: Do you believe in demons, kiddo?
+Ryuu: The newspapers and magazines say I'm a demon.
+Ryuu: But if demons really exist, calling me one
+Ryuu: would be pretty rude, don't you think?
+Ryuu: On that note, let just say...
+Ryuu: What's up? I'm Uryuu Ryuunosuke, a demon!
+Ryuu: Or maybe I shouldn't have said my name.
+Ryuu: So, I found this...
+Ryuu: It was hidden in my family's storehouse.
+Ryuu: Might be some kind of ancient document.
+Ryuu: Turns out my ancestors
+Ryuu: were researching how to summon demons.
+Ryuu: So obviously, I've gotta find out for myself whether demons really exist.
+Ryuu: Now, on the off-chance I actually summon a demon,
+Ryuu: I'd be a total jackass if all I had to offer
+Ryuu: was a cup of tea and a hearty handshake, right?
+Ryuu: That's where you come in, kiddo.
+Ryuu: If a demon does show up,
+Ryuu: let him kill you, okay?
+Ryuu: How would a real live demon kill his victim?
+Ryuu: This is a critical experiment!
+Ryuu: Ow...
+Ryuu: What's this?
+Cast: I ask you...
+Cast: What summoner has called me, sought me,
+Cast: drew the Caster class to this object?
+Cast: I ask your name.  Tell me...
+Cast: Who are you?
+Ryuu: Um...
+Ryuu: I'm Uryuu Ryuunosuke.
+Ryuu: I do odd jobs, and my hobby is serial killing.
+Ryuu: I prefer kids and young women.
+Cast: Very well.  The pact is made.
+Cast: I, too, have a wish to ask of the Holy Grail that you seek.
+Cast: We will hunt down that sacred chalice,
+Cast: and we will claim it for ourselves.
+Ryuu: Holy Grail?
+Ryuu: Whatever.  How about grabbing a drink?
+Ryuu: Or are you hungry?
+Ryuu: Whoa!  Is that human skin?
+Cast: There's no need to be scared, child.
+Cast: Can you stand?
+Cast: Now, child...
+Cast: You can leave through that door.
+Cast: I trust you'll be okay alone?
+Kid: Yeah.
+Ryuu: Hey, what's...
+Cast: Fear is best when it is fresh.
+Cast: Scare a victim over and over,
+Cast: and their emotions will slowly, but surely, shut down.
+Cast: True terror must be constantly reinvented.
+Cast: It is the very moment at which hope becomes despair...
+Cast: Does this please you?
+Cast: The taste of fresh fear and death...
+Ryuu: Coooool!
+Ryuu: That was awesome!
+Ryuu: You are so cool!
+Ryuu: Okay!
+Ryuu: I dunno what that Holy Grail deal is,
+Ryuu: but I'm with you, man!
+Ryuu: Let's paint the town red!
+Ryuu: Show me more of your awesome killing style!
+Ryuu: I've gotta see more!
+Cast: Your name is Ryuunosuke, correct?
+Cast: I feel blessed to have been summoned by a Master
+Cast: who understands me as you do.
+Cast: Finally, I can hope my wish will be granted.
+Ryuu: Oh, yeah...  You haven't told me your name.
+Cast: My name?
+Cast: Let me think...  What name would be suitable for me in this era?
+Cast: For the time being, you may call me Bluebeard.
+Kire: I heard from the Church
+Kire: that the seventh Servant, Caster, has appeared.
+Ass: The final Servant has been summoned, and so it begins.
+Kire: Indeed.
+Kire: Let us not waste time.
+Kire: I'd like you to go to the Tohsaka manor.
+Ass: And?
+Kire: With your abilities, the magic barrier that fortifies the Tohsaka manor
+Kire: should be next to nothing.
+Ass: Are you certain?
+Ass: I thought you and Tohsaka Tokiomi were allies.
+Kire: Do not concern yourself with that.
+Kire: You have nothing to fear, even should you end up facing Archer.
+Ass: I have nothing to fear from Archer,
+Ass: one of the three knight classes, as you say.
+Kire: Do not fail me.
+Kire: Your first mission is the assassination of Tohsaka Tokiomi.
+Ass: Disgraceful.
+Arch: You dirty little worm.
+Arch: Who said you could raise your head?
+Ass: {\i1}I have...
+Ass: {\i1}nothing to fear
+Ass: {\i1}from him?
+Arch: You're not even fit to look at me.
+Arch: A worm should die as it lives,
+Arch: crawling in the dirt.
+Arch: Episode 2 The Fake First Shot
+Zou: The fourth Holy Grail War is beginning.
+Arch: What a hopeless sneak attack.
+Kiri: Where did she go?
+Rider: Now I'm getting pumped!
+????: You did well to make it here.
+Iry: Secure the victory!
+Saber: I shall.
+Saber: Next Time Fuyuki City
+Toki: Everything is proceeding according to plan.
+Arch: You continue to waste my time with your trifles, Tokiomi.
+Toki: I beg your forgiveness, king of kings...
+Toki: King of Heroes, Gilgamesh.
+Toki: My intention this evening
+Toki: was to demonstrate the power the King of Heroes wields,
+Toki: discern which of the lions we should hunt first,
+Toki: and thus herald your march onto the battlefield.
+Toki: Please have patience.
+Arch: Very well.
+Arch: Perhaps I shall distract myself for now with a little stroll.
+Arch: I find this era quite interesting.
+Toki: You've taken a liking to this time period?
+Arch: It disgusts me beyond words.
+Arch: Still, I cannot help but be fascinated.
+Arch: All that matters is
+Arch: if I can find treasures worthy of addition to my collection.
+Arch: Should I find that this world offers no object of value...
+Arch: Wasting my time with such a useless summoning would be a grave offense,
+Arch: Tokiomi.
+Toki: Worry not.
+Toki: Without doubt, the Holy Grail will suit the tastes of the King of Heroes.
+Arch: I shall be the judge of that.  Regardless...
+Arch: For now, I shall do as you suggest.
+Arch: All the treasures of this world belong to me.
+Arch: The Holy Grail's true value matters not.
+Arch: I shall not stand by while a group of mongrel curs
+Arch: fights over it without my permission.
+Arch: Tokiomi, I leave the details to you.
+Toki: Dear me.
+Toki: Really...
+Toki: For Gilgamesh, of all Servants, to be summoned into
+Toki: the Archer class, which boasts the highest potential for independent action...
+Toki: Well, for now, I can leave everything to Kirei.
+Toki: All is moving forward as planned.
+Waver: Assassin's been killed?
+Waver: Hey, Rider!  Big news!
+Waver: One already down!
+Waver: Hey...
+Waver: Did you hear what I said?
+Waver: Assassin's been defeated!
+Waver: Come on, that means the Holy Grail War's begun.
+Waver: I've been out scouting and researching,
+Waver: and all you've done is watch TV and pig out, day after day after day!
+Waver: You're more useless than a familiar...
+Waver: Than a rat!
+Waver: And I told you to dematerialize when I don't need you.
+Waver: I'm providing the mana you need to do it, too.
+Rider: Look, who gives a damn about some hired killer?
+Rider: A cowardly assassin, whose only strength is in sneaking
+Rider: in the shadows, is no match for me anyway.
+Rider: Regardless, boy, here's the good stuff!
+Rider: See?  Like this huge, black B-2 thing. It's spectacular!
+Rider: I'd like to order ten.  What do you think?
+Waver: With that kind of money, you could just buy a country outright.
+Rider: Ah, I see.
+Rider: So the problem is a lack of funds.
+Rider: If there were just a huge city around,
+Rider: loaded with treasure like Persepolis,
+Rider: we could plunder all the wealth we require.
+Rider: At any rate, it appears this man, Clinton, will be a formidable opponent.
+Rider: Likely to put up a better fight than King Darius.
+Waver: A-Anyway, we're damned lucky Assassin
+Waver: was the first to go.
+Waver: You're the type who favors a full-frontal assault, right?
+Waver: So it benefits us to be rid of the guy who prefers
+Waver: tripping people up with clever traps.
+Rider: I could use some of these Tomahawk contraptions, too.
+Waver: We can scratch Saber, Lancer, and Archer, the three Knight classes,
+Waver: and Berserker, who's only good for mindless destruction, off the list.
+Waver: Given your Noble Phantasm, none of them
+Waver: should pose the slightest bit of trouble!
+Waver: The problematic one is Caster.
+Waver: If we could just figure out his identity, we...
+Rider: How did Assassin fall?
+Rider: Which Servant defeated him?
+Rider: Did you not see it happen?
+Waver: It was Tohsaka's Servant, I think.
+Waver: His outfit, his attacks...
+Waver: Everything about him was bright, shiny, and gold.
+Waver: It was over in an instant.  I couldn't―
+Rider: Fool!
+Rider: When I fight, I intend to emerge victorious!
+Rider: How can I accomplish this if you cannot attend to details?
+Rider: At any rate...
+Rider: Did you notice anything else besides his flashy appearance?
+Waver: T-That's easy for you to ask.
+Waver: It was pitch dark, and the fight only lasted a second...
+Waver: So, Rider, Servants normally only have one Noble Phantasm, right?
+Rider: In theory.
+Rider: But there's no point in trying to understand a Noble Phantasm with numbers.
+Rider: I'm sure you know, but Noble Phantasms
+Rider: are items that have come to personify the Heroic Spirit,
+Rider: either through legend or historical anecdote.
+Rider: That includes weapons with a particular ability or a unique attack.
+Waver: Then could there be a Noble Phantasm that allows the wielder
+Waver: to throw ten or twenty swords at the opponent?
+Rider: A sword that can split into infinite copies of itself?
+Rider: It is possible.
+Rider: That could be the Noble Phantasm's special ability.
+Waver: {\i1}But the weapons looked too different
+Waver: {\i1}to all be copies of the same one.
+Rider: Either way, I'll know the enemy's true identity once I engage him.
+Waver: Y-You think that's a good idea?
+Rider: Yeah!  That is what excites me!
+Rider: Food and sex, sleep and battle...
+Rider: Whatever you do in life,
+Rider: you must be certain to derive all you can from it.
+Rider: That is the only way to live!
+Rider: So what do you say to going out for some fun?
+Rider: Prepare yourself, boy!
+Rider: We make for the front lines.
+Waver: A-And where, exactly, are we headed?
+Rider: Irrelevant.  Somewhere, anywhere.
+Waver: That's ridiculous!
+Rider: You cannot be the only one watching Tohsaka.
+Rider: The rest must also know about Assassin.
+Rider: And that means they'll be on the move.
+Rider: We'll hunt them, one by one.
+Waver: Hunt them?  It isn't that simple.
+Rider: I am Rider.
+Rider: I guarantee that no Servant is faster than I.
+Waver: Wait, wait, wait!  Not here! You'll blow up the whole house!
+Kirei: My Servant has been eliminated,
+Kirei: leaving me, his Master, defeated
+Kirei: and unable to continue in the Holy Grail War.
+Kirei: As per the rules,
+Kirei: I, Kotomine Kirei, seek asylum from the Holy Church.
+Risei: Accepted.
+Risei: Without violating my role as mediator,
+Risei: I, Kotomine Risei, will guarantee your safety.
+Risei: Please enter.
+Kirei: Father, is anyone spying on this church?
+Risei: No.  This is a neutral zone.  I assure you, no one would dare attempt infiltration.
+Risei: If any of the Masters try to interfere,
+Risei: the Church will remonstrate with them.
+Kirei: Then the peace here will remain undisturbed.
+Kirei: Still, I feel it wise to stay vigilant.
+Kirei: I want a guard posted here at all times.
+FAss: Understood, sir.
+Kirei: Was anyone else observing the battle?
+Ass: I detected four distinct magical presences.
+Risei: I have confirmed that the final Servant,
+Risei: Caster, was summoned the day before yesterday.
+Risei: All seven Servants for this Holy Grail War
+Risei: should now be in our world, but...
+Kirei: Someone wasn't watching.
+Kirei: I had intended for all of the Masters to see that.
+BAss: At this stage of the game, I would say that
+BAss: is a obvious step for every Master.
+CAss: If they don't take even that basic precaution,
+CAss: they would constitute such a minor threat that
+CAss: we Assassins would hardly notice their presence.
+SAss: When the other Masters lower their guard,
+SAss: upon hearing the news of Assassin's defeat...
+Ass: We, the Heroic Spirits of shadow,
+Ass: shall appear from behind,
+Ass: and we shall become true darkness.
+Risei: And thus the battle commences.
+Risei: The fourth Holy Grail War has begun.
+Risei: It seems like this old man will witness a miracle, at last.
+Iry: This is Kiritsugu's home country.
+Iry: What did you think of air travel, Saber?
+Saber: Nothing in particular.
+Saber: Far less interesting than I'd expected.
+Iry: Perhaps flying through the air
+Iry: seems mundane after being summoned as a Heroic Spirit?
+Saber: It's not that.
+Saber: When Servants are summoned,
+Saber: we are given knowledge of the era into which we appear.
+Saber: If worse came to worst,
+Saber: I expect I could pilot this aircraft.
+Iry: You can fly a plane?
+Saber: One of my core skills is the ability
+Saber: to ride anything, be it mortal or divine.
+Saber: Once I mount it and grab hold of the reins,
+Saber: I can more or less feel my way through.
+Iry: Mount it and grab the reins...
+Saber: Did I say something amusing?
+Iry: No...
+Iry: It's so lively here.
+Saber: Kiritsugu should have arrived before us, yes?
+Iry: Yes, about twelve hours ago.
+Iry: But he'll find us, so there's nothing to worry about.
+Iry: Until he says otherwise, we'll tread carefully,
+Iry: keeping an eye on the situation, as it evolves.
+Iry: We've come all the way to Japan.
+Iry: We should enjoy ourselves a bit before the fighting starts.
+Saber: That would be quite reckless.
+Saber: We should be establish a fortified position, rendezvous with Kiritsugu,
+Saber: and plan our strategy.
+Iry: You're probably right, honestly...
+Iry: But it's such a waste!
+Iry: We've traveled so long to this far-off country.
+Iry: And...
+Iry: I've never before been out.
+Saber: Hmm?
+Iry: Before today, I'd never set foot in the outside world...
+Saber: You've spent your entire life in that castle?
+Iry: I was just a puppet, crafted to fight in the Holy Grail War.
+Iry: It isn't as if I'm totally ignorant of the world.
+Iry: Kiritsugu has shown me pictures and movies,
+Iry: and has taught me many things about the places and current events of the world.
+Iry: But this is the very first time I'm seeing it with my own eyes.
+Iry: That's why...
+Iry: I'm sorry.  I'm rambling!
+Saber: Stop.
+Saber: This will be my first time walking around this town, as well.
+Saber: A knight is duty-bound to escort her charge.
+Saber: I shall do what little I can for you.
+Saber: Come.
+Maiya: All of your equipment has arrived.
+Maiya: Madam and Saber have arrived in Fuyukiand are working their way through the city.
+Maiya: That should be sufficient to convince
+Maiya: the other six that she is Saber's Master.
+Kiri: Good.
+Maiya: Last night, there was movement at the Tohsaka mansion.
+Maiya: This is what was recorded.
+Kiri: What is your interpretation?
+Maiya: It is too good to be true.
+Maiya: There was very little time
+Maiya: between the start of Assassin's infiltration and
+Maiya: the appearance of Tohsaka's Servant.
+Maiya: Taking Assassin's skill at stealth into account,
+Maiya: I cannot believe he was registered that quickly.
+Maiya: They must have expected an invader well in advance.
+Kiri: Keeping your Servant's true identity
+Kiri: a secret is an absolute must in this war.
+Kiri: Why would Tohsaka
+Kiri: risk sending his Servant into the open like that?
+Maiya: Perhaps it was deliberate?
+Kiri: Maiya, what happened to Assassin's Master?
+Maiya: We have word that he sought asylum from the Church,
+Maiya: and was taken into protective custody by the observer last night.
+Maiya: Assassin's Master was Kotomine Kirei.
+Kiri: Maiya, send a familiar to Fuyuki Church.
+Maiya: Are you certain that's wise?
+Maiya: Masters are supposed to be forbidden from impinging upon
+Maiya: the Church's neutral zone.
+Kiri: Just get it as close as possible without attracting the Father's notice.
+Maiya: Understood, sir.
+Kiri: And the one I left with you?
+Maiya: Right here.
+Kiri: Two seconds...  I'm rusty.
+Maiya: Yes.
+Kiri: Ilya still weighs less than that Walther,
+Kiri: even though she's about to turn eight...
+Maiya: Try to focus only on the task that lies before you.
+Maiya: Push everything else from your mind.
+Iry: It's beautiful.  Like a giant mirror, pointed toward the night sky.
+Iry: Walking through a new town with a gentleman friend
+Iry: is such a wonderful feeling.
+Saber: Was I enough of a gentleman for you?
+Iry: You were absolutely perfect.
+Iry: A knight in shining armor, I would say.
+Saber: It was my honor, princess.
+Iry: Saber, do you like the ocean?
+Saber: I don't quite know how to answer.
+Saber: In my era, in my kingdom, the ocean
+Saber: was flooded with invaders from faraway countries.
+Saber: I had no love for the ocean.  I cursed it.
+Iry: I'm sorry.  Even though we're both women,
+Iry: your life as King Arthur never permitted you
+Iry: the freedom to wander about, as we did today.
+Saber: And you, Irisviel, would have preferred to
+Saber: walk the town with Kiritsugu, correct?
+Iry: I couldn't...
+Iry: It would be a painful memory for him.
+Saber: Does Kiritsugu not enjoy spending time with you?
+Iry: Happiness only seems to cause him pain.
+Iry: An enemy Servant?
+Saber: Yes.
+Saber: I sense something lurking in the shadows, about one hundred meters from us.
+Saber: It seems they are challenging us.
+Iry: How chivalrous.
+Iry: They want us to decide the field of battle.
+Iry: Shall we accept their invitation?
+Saber: Gladly.
+Wave: Rider, I want to go down.
+Wave: I'm too...  Hurry!
+Rider: Why are you complaining?
+Rider: This spot is ideal for observing the enemy.
+Waver: Let's go down!  No, take me down now!
+Waver: I-I can't take this...
+Rider: You act like a child.
+Rider: The waiting game is merely another kind of battle.
+Waver: I wanna go home... Back to England.
+Rider: Again, do not be so hasty.
+Rider: Look!  Things are finally about to begin.
+Rider: Now I'm getting pumped!
+Lance: You did well to make it here.
+Lance: While you paraded around town today,
+Lance: everyone else stayed within, fortifying their defenses.
+Lance: Only you had the valor to answer my challenge.
+Lance: Such a pure fighting spirit...
+Lance: Am I right to assume that you are Saber?
+Saber: None other.
+Saber: And you must be Lancer.
+Lance: Here we are, about to fight to the death,
+Lance: but we cannot even exchange names, as is traditional...
+Lance: It dampens my enthusiasm.
+Iry: Saber, be careful.
+Iry: I can support you with healing magic,
+Iry: but no more than that.
+Saber: I can handle Lancer.
+Saber: But I dislike that his Master has yet to appear. {D: TC - I think they're worried about the other Master, not Lancer's Master. Verify}
+Saber: There may be more to their plan than is apparent.
+Saber: Please stay alert.
+Saber: I'm trusting you to watch my back, Irisviel.
+Iry: I will, Saber.
+Iry: Secure the victory!
+Saber: I shall.
+Saber: Episode 3 Fuyuki City
+Saber: Now my little King of Knights,
+Saber: let's see what you're capable of.
+Saber: The Saber Class's attack magic is impressive.
+Saber: He's good.
+Saber: Enough playing around, Lancer.
+Saber: What's going on here?
+Saber: I'll go!
+Saber: {\a6}Next time: Spearhead
+Saber: Take me with you!
+Saber: 
+Saber: Charm magic?
+Lance: I'm afraid there's nothing I can do about that.
+Lance: It's a curse I've been afflicted with since birth.
+Lance: You should be more angry at yourselves for being born women.
+Saber: I hope you don't expect
+Saber: that handsome face to dull my sword, spear wielder.
+Lance: If it did, I'd be bored to tears.
+Lance: The Saber Class's anti-magic is impressive.
+Lance: Good.
+Lance: There's no honor in killing a woman when my face has robbed her of the will to fight.
+Lance: because of my face.
+Lance: I'm happy to see you have backbone.
+Saber: Oh?
+Saber: So you seek a fair fight?
+Saber: Then I shall consider myself fortunate, as well,
+Saber: to be able to face such a proud Heroic Spirit.
+Lance: Excellent.
+Lance: En garde.
+Kiri: They've begun.
+Kiri: Someone's erected a barrier...
+Kiri: Probably that Servant's Master.
+Maiya: One could see the entire battlefield easily from up there.
+Kiri: True, that would be the best place to observe from.
+Kiri: It would be obvious to anyone, upon seeing that platform.
+Kiri: Maiya, you approach from the east-side wharf.
+Kiri: I'll come from the west.
+Kiri: We'll set up points from which we can monitor
+Kiri: Saber's battle, as well as the derrick crane.
+Maiya: Understood.
+Kiri: Now, my little King of Knights,
+Kiri: let's see what you're capable of.
+Iry: {\i1}Saber's keeping a close watch on both spears at the same time.
+Iry: {\i1}She doesn't know which one Lancer will use for his strongest attack.
+Saber: {\i1}The long spear in his right hand, or the short spear in his left...
+Saber: {\i1}Which one is his Noble Phantasm?
+Saber: {\i1}If I can figure that out, I can come up with a suitable battle plan.
+Iry: {\i1}Or if we only knew his identity...
+Saber: {\i1}Obviously, he has mastery of the spear.
+Saber: {\i1}But I need more to go on...
+Lance: Come on, Saber!
+Lance: Show me what you can really do!
+Saber: {\i1}He's good.
+Lance: {\i1}That sword is dangerous.
+Lance: {\i1}Without knowing its length, it's impossible to strike at the right distance!
+Lance: {\i1}And for her to deflect my spears...
+Lance: {\i1}This woman's sword skills are first-rate.
+Kiri: Maiya, northeast of Saber...
+Kiri: Lancer's Master is on the warehouse roof.
+Kiri: Do you see him?
+Maiya: No, he's in my blind spot.
+Kiri: Understood.  I'll take care of him.
+Kiri: Assassin?
+Kire: We have activity by the warehouses at the mouth of Mion River.
+Kire: The first battle in the war has commenced.
+Toki: You are mistaken.
+Toki: Officially, it is the second battle,
+Toki: Kirei.
+Kire: It appears that the combatants are Saber and Lancer.
+Toki: Can Assassin evaluate them from his position?
+Kire: But of course.
+Kire: Saber is an especially gifted warrior.
+Kire: Almost all of her stats are solidly rank A.
+Toki: I see.
+Toki: No wonder they call it the strongest class.
+Toki: Saber is likely to be more problematic than Lancer.
+Toki: Can you see their Masters?
+Kire: One other person is standing in the open, behind the Servants.
+Kire: She's out in the open, right behind Saber.
+Kire: A woman with silver hair.
+Toki: Then Lancer's Master has the sense to stay out of sight.
+Kire: Meaning he is no amateur.
+Kire: He knows the proper strategy for fighting in a Holy Grail War.
+Toki: Wait, did you say a woman with silver hair?
+Kire: Yes, she's a white woman.
+Kire: Silver hair, red eyes.
+Kire: She almost doesn't look human.
+Toki: An Einzbern homunculus?
+Toki: They've created another artificial Master.
+Toki: I thought the only pawn that Jubstacheit von Einzbern
+Toki: had in play was Emiya Kiritsugu.
+Toki: I cannot believe this escaped my notice.
+Kire: Then, is that woman is the Einzbern Master?
+Toki: Either way, she's key to shaping the course of this Holy Grail War.
+Toki: Don't take your eyes off her, Kirei.
+Kire: Understood.
+Kire: I'll keep someone on her at all times.
+Maiya: I see him, too, but...
+Maiya: Assassin should be dead, so how can he be here?
+Kiri: There's more to this than meets the eye.
+Kiri: Better to keep observing for now.
+Kiri: Watch Assassin for me.
+Kiri: I'll take Lancer.
+Maiya: I'll attack Assassin to draw his attention, which will give you the opportunity
+Maiya: to attack Lancer's Master.
+Kiri: Forget it, Maiya.
+Kiri: Assassin is the main problem now.
+Kiri: We aren't prepared to fight Servants.
+Maiya: As you say.
+Lance: I suppose there's no honor at stake,
+Lance: when we have not even said our names.
+Lance: But know that you have my respect.
+Lance: I've not even seen you break a sweat since we began.
+Lance: Woman or not, that's impressive.
+Saber: You're too modest, Lancer.
+Saber: Regardless of whether I know your name,
+Saber: to receive such a compliment from a master of the spear such as yourself...
+Saber: The honor is all mine.
+Saber: I accept it, with gratitude.
+Arch: Enough playing around, Lancer.
+Iry: Lancer's Master?
+Arch: No more dragging things out.
+Arch: Saber is a fearsome opponent.
+Arch: Finish her quickly.
+Arch: You may use your Noble Phantasm.
+Lance: As you wish, Master.
+Saber: {\i1}The long spear is his Noble Phantasm?
+Lance: Well, you heard him.
+Lance: From this moment on, I'll be fighting to kill.
+Lance: Saber, you've been using wind magic to conceal your sword, correct?
+Lance: I see now.
+Lance: You must have a reason to keep your sword hidden.
+Lance: The sight of it would reveal your identity.
+Saber: Sorry to disappoint you, Lancer.
+Saber: But this fight will be over before you ever have the chance...
+Saber: to see my blade.
+Lance: I wonder.
+Lance: I believe I can lift the veil from this invisible sword, Saber.
+Lance: There it is.
+Lance: Your precious sword.
+Saber: He dispersed the Invisible Air?
+Iry: What happened?
+Saber: {\i1}That red spear is shaving away the Invisible Air!
+Lance: I have the full measure of your blade.
+Lance: It no longer matters if I can see it or not!
+Saber: {\i1}But considering the strength of his spear...
+Saber: {\i1}There is a way to win.
+Saber: {\i1}If I can just endure...
+Saber: {\i1}a single misplaced attack.
+Iry: Saber!
+Saber: Thank you, Irisviel.
+Saber: I'm all right.  Your spell is working!
+Lance: I should have known you'd never let me win so easily.
+Saber: {\i1}How?
+Saber: {\i1}My armor should have been
+Saber: {\i1}more than enough to defend against that strike.
+Saber: {\i1}Why did the spear pierce me?
+Saber: {\i1}My armor appears untouched?
+Saber: {\i1}How can this be?
+Saber: {\i1}Lancer's spear could only have passed through my magical armor.
+Saber: I understand.
+Saber: I've discovered your spear's ability, Lancer.
+Lance: Oh?
+Saber: That red spear severs magic, doesn't it?
+Lance: So your armor is, in fact, a magical barrier.
+Lance: I hope you weren't relying on it
+Lance: to see you through this battle, Saber.
+Saber: Before my spear, you may as well be completely naked.
+Saber: Don't be so certain you have the upper hand,
+Saber: simply because you found a way to bypass my armor.
+Saber: If I cannot defend against your spear,
+Saber: I'll simply cut you down before you can strike.
+Saber: En garde, Lancer.
+Lance: That's quite a risk you're taking.
+Lance: Do or die, is it?
+Lance: Still, you've turned your armor's loss
+Lance: into an advantage, by casting it aside.
+Lance: What bold and graceful determination.
+Lance: I admire it.
+Lance: But on this particular stage,
+Lance: that is a gamble you will not win, Saber.
+Saber: I wonder.
+Saber: I'd rather you waited until after our next exchange before admonishing me.
+Lance: {\i1}You lose.
+Saber: {\i1}The long spear wasn't his only Noble Phantasm!
+Saber: {\i1}A trap!
+Rider: No, no...  This is no good.
+Wave: W-What?
+Rider: Lancer's using his finishing move.
+Rider: He's trying to end the fight!
+Waver: But that's a good thing―
+Rider: Fool, do you realize what you're saying?
+Rider: I wished to wait here until more Servants arrived,
+Rider: but at this rate, Saber will fall before that happens.
+Rider: And then, it will be too late.
+Waver: W-What do you mean, too late?
+Waver: I thought the plan was to wait till it's over and pick off the winner?
+Rider: I had anticipated that more Servants
+Rider: would rise to answer Lancer's challenge.
+Rider: It is more logical
+Rider: to defeat our enemies in one fell swoop,
+Rider: rather than hunting them down individually, is it not?
+Waver: In one fell swoop?
+Rider: Yes!
+Rider: How often do you get a chance to cross swords
+Rider: with heroes from across centuries?
+Rider: It would be a shame if all six gathered together
+Rider: and I missed a chance to fight them all at once.
+Rider: Watching Saber and Lancer...
+Rider: The longer their battle goes on,
+Rider: the more I want to fight both of them.
+Rider: It would be a shame for one to die.
+Waver: What good will letting them live do us?
+Waver: The Holy Grail War's a fight to the death!
+Rider: Victory without obliteration,
+Rider: and subjugation without causing shame.
+Rider: That is the essence of conquest!
+Rider: No more watching from afar!
+Rider: We shall join the battle, boy!
+Waver: You stupid, crazed nutter!
+Waver: You're doing this all wrong!
+Rider: If you don't approve, you can stay up here and keep watching.
+Waver: I'll go...
+Waver: Take me with you!
+Rider: Good!  Now those are my Master's words!
+Saber: {\i1}Damn, he cut the tendon.
+Saber: {\i1}I cannot move my thumb.
+Lance: Still not done?
+Lance: You just won't let me win, will you?
+Lance: Excellent. I respect your courage!
+Arch: Why must you insist on paying these pointless compliments?
+Arch: You should've finished her off, imbecile.
+Lance: A thousand pardons, my Master.
+Saber: Irisviel, heal me again.
+Iry: I have...
+Iry: I cast the spell. But it isn't...
+Iry: Your wound should have been mending!
+Iry: Your body should be completely healed, Saber!
+Lance: Fortunately for me, my Gáe Dearg
+Lance: convinced you your armor was worthless.
+Lance: Still, you cast it aside too hastily.
+Lance: Had you kept it, it would have protected you against Gáe Buidhe.
+Saber: I see.
+Saber: That spear inflicts cursed wounds that cannot be healed.
+Saber: I should have recognized you earlier.
+Saber: A red spear that pierces magic, a yellow spear that bears a curse,
+Saber: and a teardrop mole, beneath your right eye, that confuses the hearts of women.
+Saber: First among the knights of Fianna,
+Saber: Diarmuid of the Love Spot.
+Saber: Never did I expect the honor of such an opponent.
+Lance: That's the thing about the Holy Grail War...
+Lance: Really, though, the pleasure is mine.
+Lance: As one who has also transcended time and space, to appear as a Servant,
+Lance: there is no mistaking that golden sword.
+Lance: I can hardly believe I've landed a blow
+Lance: against the one who is rightfully known as the King of Knights.
+Lance: Apparently, I'm not to be underestimated.
+Lance: Well, now that we know each other's name,
+Lance: I'd say we can finally have an honorable fight, as fellow warriors.
+Lance: Or do you feel aggrieved over your injured arm, Saber?
+Saber: Surely, you jest.
+Saber: I'm insulted you would even see fit to mention such a scratch.
+Lance: Prepare yourself, Saber.
+Lance: I'll have your life this time.
+Saber: Only if I don't take yours first, Lancer.
+Iry: A chariot?
+Rider: Sheathe your swords! You are in the presence of royalty!
+Rider: I am Iskandar, King of Conquerors.
+Rider: Brought forth to fight in this Holy Grail War as Rider!
+Rider: Episode 4 Spearhead
+Rider: I am Iskandar, King of Conquerors!
+Wave: I can't read any of their stats!
+Saber: Irisviel, get back!
+Kiri: Maiya, his Noble Phantasm...
+Arch: I command you, with a Command Spell.
+Iry: Believe in your Master!
+Guy: I am reborn anew!
+Arch: I'll destroy every last bit of your corpse!
+Arch: Next Time: A Wicked Beast's Roar
+Arch: 
+Rider: I am Iskandar, King of Conquerors.
+Rider: Brought forth to fight in this Holy Grail War as Rider!
+Waver: What are you thinking, you moron?
+Rider: Of course, I am your enemy
+Rider: in the battle for the Holy Grail.
+Rider: But first, I would ask of you both...
+Rider: Would you
+Rider: consider surrendering yourselves and acquiescing the Grail to me?
+Rider: Do so, and I shall welcome you as allies!
+Rider: Follow me, and you shall know the thrills of world domination!
+Lance: I'm afraid I must decline.
+Lance: I made a pact to deliver the Grail to none other than my new lord,
+Lance: who summoned here.
+Lance: And you are not he, Rider!
+Saber: You saw fit to interrupt Lancer and my duel,
+Saber: merely to spout that gibberish?
+Saber: To a knight, this is a grave insult!
+Rider: I can make it worth your while.
+Both: Enough!
+Saber: Moreover,
+Saber: I am a monarch, as well... The King of Britain.
+Saber: No matter how exalted you may be,
+Saber: I could never lower myself to another's subject!
+Rider: The King of Britain, you say? Incredible!
+Rider: To think that the King of Knights was a little girl!
+Saber: Would you care to taste this little girl's steel,
+Saber: King of Conquerors?
+Rider: It appears negotiations have broken down.
+Rider: Damn, what a shame.
+Waver: Rider!
+Kiri: Did that oaf truly rule the world once?
+Waver: Listen, you...
+Kaye: I see.  It was you, of all people.
+Kaye: I wondered who could possibly
+Kaye: have been mad enough to steal my summoning relic.
+Kaye: But never did I expect you to have the guts
+Kaye: to enter the Holy Grail War yourself.
+Kaye: Waver Velvet.
+Kaye: But this is quite convenient. It's the perfect chance
+Kaye: to impart a very special lesson unto you.
+Kaye: You will learn what it means for two mages
+Kaye: to fight to the death.
+Kaye: You will be thoroughly familiar with all the fear and pain that it entails.
+Kaye: You should feel honored.
+Rider: You there, mage!
+Rider: It sounds as though
+Rider: you were intended to be my master instead of this boy!
+Rider: Let me say, the mere idea makes me ill!
+Rider: Only the man with the courage
+Rider: to stand beside me on the battlefield is fit to be my Master!
+Rider: A coward, too afraid to show his face,
+Rider: is not fit for the role!
+Rider: And the rest of you!
+Rider: I know you are hiding in the darkness, spying on us.
+Saber: What do you mean, Rider?
+Rider: Saber and Lancer.
+Rider: Your battle was fought fairly and with honor.
+Rider: It was splendid!
+Rider: I cannot imagine myself to be the only Heroic Spirit
+Rider: drawn by the ringing of your clashing weapons.
+Rider: Heroes summoned by the Grail,
+Rider: let us gather!
+Rider: And to those too paralyzed by fear to show your faces,
+Rider: know that Iskandar, King of Conquerors, holds you in utter contempt!
+Toki: This...
+Kire: Yes.
+Toki: This is bad.
+Kire: Agreed.
+Waver: That's...
+Kaye: The Servant who killed Assassin!
+Arch: Not one, but two insolent dogs disregard my majesty,
+Arch: to purport themselves as kings?
+Rider: That's an odd thing to quibble about.
+Rider: I am Iskandar,
+Rider: known throughout the world as King of Conquerors.
+Arch: Foolishness.
+Arch: I am the only true king to stride this Earth.
+Arch: All others are but mongrels and peasants before me.
+Rider: If you make such claims, then state your name!
+Rider: Surely a fellow king would not hesitate
+Rider: to name himself to his enemies.
+Arch: You dare issue demands to me, cur?
+Arch: To your king?
+Arch: Blessed to personally basking in my glory,
+Arch: you still cannot even recognize me.
+Arch: You are uncivilized animals, unworthy of your lives!
+Rider: Ah, that's the move he used to slay Assassin.
+Kiri: That's his Noble Phantasm.
+Kari: Kill.
+Saber: Berserker?
+Lance: Well, King of Conquerors, why not try recruiting him?
+Rider: I would try,
+Rider: but he doesn't seem the type to sit down and negotiate.
+Rider: Okay, boy.  How does he measure up as a Servant?
+Waver: I don't know.  I can't tell at all.
+Rider: What?
+Rider: What kind of excuse for a Master are you?
+Rider: Can't you even see his weaknesses,
+Rider: strengths, basic things like that?
+Waver: No, I can't.
+Waver: That black creature is definitely a Servant,
+Waver: but I can't read any of its stats!
+Iry: It seems we have another powerful opponent to confront.
+Saber: That Heroic Spirit is under an enchantment
+Saber: that obscures his identity and abilities.
+Saber: But that isn't all.
+Saber: Faced with four enemies at once,
+Saber: we cannot afford the slightest mistake.
+Maiya: Why did he materialize now?
+Kiri: If his Master were rational,
+Kiri: I cannot imagine he would insert his Servant
+Kiri: directly in the middle of this chaos.
+Kiri: Maiya, keep Assassin in your sights.
+Kiri: I'll search for Berserker's Master.
+Arch: Who gave you permission to observe me, you rabid dog?
+Arch: See to it that your death amuses me, mongrel.
+Lance: Is that really Berserker?
+Rider: That's quite a technique for one who is beyond rational thought.
+Rider: Oh, you couldn't tell?
+Rider: That black thing snatched the sword out of the air,
+Rider: then used it to knock aside the spear.
+Arch: You presume to soil my treasures with your filthy hands?
+Arch: Do you desire death that badly, dog?!
+Waver: Are you kidding me?
+Arch: How long can your petty thievery sustain your life?
+Arch: Show me!
+Arch: Ignorant fool...
+Arch: You should regard me as a god.
+Arch: I shall not permit you to exist upon the same world I inhabit!
+Arch: Your impudence has earned you death!
+Arch: You, mongrel...
+Arch: I'll destroy every last bit of your corpse!
+Kire: Gilgamesh is serious.
+Kire: He's about to unleash his Gate of Babylon even further.
+Toki: Repeatedly using his strongest Noble Phantasm before so many enemies...
+Toki: How rash.
+Kire: My lord, what will you do?
+Kire: I must sacrifice a Command Spell.
+Kire: {\i1}King of Heroes,
+Kire: {\i1}quell your anger and withdraw.
+Arch: You'd have the gall
+Arch: to order a king's retreat?
+Arch: A bold move, Tokiomi.
+Arch: You've been spared this time, mad dog.
+Arch: As for the rest of you mutts...
+Arch: By our next encounter, I expect you rabble to have thinned your herd.
+Arch: Only true heroes are worthy of gazing upon me.
+Rider: Looks like Archer's Master
+Rider: doesn't have Archer's own fortitude.
+Saber: Irisviel, get back!
+Saber: What?
+Rider: So that's it.
+Rider: Anything that black monster wields becomes his Noble Phantasm.
+Iry: Saber!
+Kiri: Talk to me, Maiya.
+Kiri: Can you locate Berserker's Master from your position?
+Maiya: Negative.
+Kiri: This is bad.
+Kiri: Damn it!
+Saber: What are you?
+Lance: I think that's quite enough of your demented ravings, {D: TC - Is Berserker talking at all?}
+Lance: Berserker.
+Lance: I have already claimed this duel with Saber.
+Lance: Attack her further, and you will contend with me, as well.
+Saber: Lancer...
+Kaye: What are you doing, Lancer?
+Kaye: This is the perfect opportunity to eliminate Saber.
+Lance: Saber
+Lance: will fall by my spear, upon my honor as Diarmuid Ua Duibhne!
+Lance: Allow me to slay this rabid dog first!
+Lance: What say you, my Master?
+Kaye: {\i1}I command you, by this Command Spell...
+Kaye: Master!
+Kaye: {\i1}You will help Berserker,
+Kaye: {\i1}and kill Saber.
+SAber: Lancer?
+Lance: Saber, I'm sorry.
+Saber: Irisviel.
+Saber: I shall hold them off.
+Saber: While I draw their attention, get yourself to safety.
+Saber: Get as far as you can.
+Saber: Irisviel, go!
+Iry: It's all right, Saber.
+Iry: Believe in your Master.
+Saber: {\i1}Is Kiritsugu here, as well?
+Iry: {\i1}Kiritsugu, I know you'll think of a solution to this.
+Kiri: We must kill Lancer's Master.
+Kiri: That's the only way to get this situation under control.
+Kiri: Maiya,
+Kiri: on my signal, shoot Assassin.
+Kiri: I'll need suppressive fire.
+Maiya: Understood.
+Kiri: Six...
+Kiri: Five...
+Kiri: Four...
+Kiri: Three...
+Kiri: Two...
+Kiri: One!
+Rider: You won't be easily felled, will you?
+Rider: Well, it appears our friend in black has decided to withdraw for the night.
+Rider: Master of Lancer...
+Rider: I know not where you hide,
+Rider: but cease your pathetic meddling in the affairs of true knights!
+Rider: Call off Lancer.
+Rider: Should you insist on further sullying his name,
+Rider: I shall side with Saber.
+Rider: And together, we'll massacre your Servant.
+Rider: What say you?
+Kaye: Fall back, Lancer.
+Kaye: Tonight's battle is over.
+Lance: You have my gratitude, King of Conquerors.
+Rider: You needn't mention it.
+Rider: I simply enjoy seeing the flowers of war in bloom.
+Saber: What was your purpose in coming here,
+Saber: King of Conquerors?
+Rider: I cannot say I planned it out thoroughly, to be honest.
+Rider: Saber, before you do anything else, settle your score with Lancer.
+Rider: I shall await the victor, be it you or Lancer.
+Rider: Goodbye for now, King of Knights!
+Rider: I hope our next meeting will prove even more exciting than our first!
+Rider: Hey, boy, any grand declarations for our foes?
+Rider: He really needs to get himself together.
+Rider: Farewell!
+Iry: Saber, your left arm!
+Saber: Yes, it was a costly mistake.
+Saber: As Rider says,
+Saber: I must finish my fight with Lancer, and lift his spear's curse.
+Saber: Otherwise, I'll be at a disadvantage against the other Servants.
+Iry: Thank you, Saber.
+Iry: It's thanks to you that we survived this night.
+Saber: I simply focused on the enemies in front of me.
+Saber: I relied on you to protect my back.
+Iry: Saber...
+Saber: The true war lies ahead, Irisviel.
+Saber: Tonight was simply a harbinger of the many battles that await.
+Iry: You're right.
+Saber: All of them are terribly powerful.
+Saber: And not one could be considered a conventional opponent.
+Iry: So this is the Holy Grail War...
+Kari: They all turned tail and ran at the sight of my Berserker.
+Kari: I wiped mud on that pompous ass's face!
+Kari: Tokiomi, I wish I could've seen the look on your face.
+Kari: Damn you, Berserker... You just had to flip out with Saber.
+Kari: At this rate, my body won't be able to handle the strain...
+Kari: But if I'm able to control him, I can win.
+Kari: Wait for me, Sakura...
+Gass: Pardon me, Kirei-sama.
+Kire: Yes?
+Gass: I discovered something outside the church
+Gass: that may interest you.
+Kire: A familiar?
+Gass: Yes.  It was outside the barrier,
+Gass: but it had clearly been sent to observe the church.
+Ryuu: Incredible!  You're blowing my mind!
+Ryuu: Sir Bluebeard, that was all real, right?
+Ryuu: No special effects or tricks or anything!
+Ryuu: Holy crap!
+Ryuu: So what about that Holy Grail War?
+Ryuu: You wanna sink your teeth into that, too, right?
+Ryuu: Sir Bluebeard?
+Cast: At last...
+Ryuu: At last...  Uh, what?
+Cast: Look!  She is the answer!
+Cast: That gallant face, that dashing figure...
+Cast: She is, without a doubt, my one true soul mate!
+Ryuu: You know her?
+Cast: Of course!
+Cast: She who was forsaken by God Himself,
+Cast: who fell into ruin and died in shame...
+Cast: Here and now, she is reborn anew!
+Cast: This... This is a miracle.
+Cast: What can I say, but that my deepest wish has been granted?
+Cast: Oh, my maiden...
+Cast: My virgin angel...
+Cast: Soon, we shall be together.
+Cast: Episode 5 A Wicked Beast's Roar
+Lance: I will bring you Saber's head.
+Saber: Next time, I won't hold back!
+?????: Are you sure you aren't mistaken?
+Kaye: You would test the magic of Kayneth El-Melloi?
+Kire: Are you preaching at me?
+Cast: I have come for you, my holy virgin.
+Cast: Next Time: A Night of Schemes
+Iry: See? See?
+Iry: This thing really flies!
+Saber: Y-You're a surprisingly advanced driver...
+Iry: Oh, yes!  I may not look it, but I'm a driving maniac!
+Iry: Of all the toys Kiritsugu has given me,
+Iry: this is definitely my favorite!
+Saber: It's a toy?
+Iry: Back at the castle,
+Iry: I could only do laps around the inner courtyard.
+Iry: So this feels great!
+Saber: Wouldn't hiring a chauffeur have been better?
+Iry: Oh, that's no fun.
+Iry: I mean, it's too dangerous.
+Iry: What if the enemy were to ambush us?
+Saber: I suppose...
+Saber: Stop!
+Saber: Irisviel...
+Saber: Get out of the car, and stay close to me.
+Saber: I sense he's a Servant.
+Cast: I have come for you, my holy virgin.
+Iry: Do you know him?
+Saber: I do not think so.
+Cast: Don't say that!
+Cast: You must surely remember my face!
+Saber: I have never seen you before this night.
+Saber: Perhaps you have me mistaken for another?
+Cast: It's me!
+Cast: Gilles de Rais...
+Cast: I prayed for your resurrection,
+Cast: longed for the miracle that would reunite us,
+Cast: and even leapt through time to find you,
+Cast: Jeanne!
+Iry: Jeanne?
+Saber: I know neither your name,
+Saber: nor that of the Jeanne of whom you speak.
+Cast: No...
+Cast: Can you have really forgotten your past life?
+Saber: As you have revealed your true name to me,
+Saber: I am honor-bound, as a knight, to give you mine.
+Saber: I am Arturia.
+Saber: Daughter of Uther Pendragon, and King of Britain.
+Saber: Summoned to this era as the Saber class.
+Cast: How regrettable!
+Cast: How heart-wrenching...
+Cast: This isn't simple amnesia, but madness!
+Cast: Damn you...
+Cast: Damn you!
+Cast: How much more torture
+Cast: must my maiden endure before God is sated?!
+Saber: Cease your pathetic ravings!
+Cast: Awaken!
+Cast: Cast aside the mantle of Saber.
+Cast: The Holy Grail War has its victor already!
+Cast: Without spilling a single drop of blood,
+Cast: the Grail has chosen me, Gilles!
+Cast: I know this, because my wish has been granted.
+Cast: My virgin angel, Jeanne d'Arc,has been revived!
+Saber: Mock the prayers of our fellow Heroic Spirits any further,
+Saber: and next time, I shan't miss!
+Saber: Stand up!
+Cast: Your mind is locked away so tightly, Jeanne.
+Cast: I suppose I have no choice.
+Cast: Clearly, drastic measures are called for,
+Cast: and I must prepare accordingly.
+Cast: I swear this to you, Jeanne.
+Cast: I will free your soul from the wretched curse of God.
+Iry: Another enemy unable to keep up a proper conversation.
+Iry: How exhausting.
+Saber: Next time, I shall slay him before he can utter a single word.
+Saber: I loathe dealing with that type.
+Saber: Nonetheless, I have been fortunate tonight.
+Saber: I sensed he was far too dangerous an opponent for me to fight
+Saber: with my left hand still injured.
+Ass1: Tailing Saber's Master has proved surprisingly helpful.
+Ass2: We've even located Caster.
+Ass1: Both trails are worth following.
+Ryuu: That's no good.
+Ryuu: The thumb should go here.
+Ryuu: There we go...
+Ryuu: Perfect!
+Ryuu: Oh, welcome back, sir!
+Ryuu: Hey!  Come on...
+Cast: Wretched God!
+Cast: His accursed shackles still bind my dear Jeanne's soul!
+Ryuu: Jeanne?  The woman you saw in the crystal ball?
+Cast: We must prove it beyond the shadow of a doubt!
+Cast: Prove that God has no power, prove that love is in vain!
+Cast: That no deed, no matter how evil, merits divine punishment!
+Ryuu: Yeah, yeah.  I feel you...
+Ryuu: Damn, you're cool!
+Cast: Therefore!
+Cast: We must fall further from grace, commit unspeakable blasphemies,
+Cast: create an entire mountain of sacrifices!
+Ryuu: Uh, so...
+Ryuu: It's quantity over quality now?
+Cast: Precisely, precisely!
+Cast: Astute as always, Ryuunosuke.
+CasT: We will start by sacrificing the eleven in the cells immediately.
+Cast: Then we'll need a new set of children to slaughter.
+Ryuu: Kinda seems like a waste, though.
+Ryuu: Ah, well...
+TV: {\i1}We interrupt your regularly scheduled programming
+TV: {\i1}for an emergency news brief.
+TV: Unexplained Explosion
+TV: {\i1}An unexplained explosion occurred tonight,
+TV: {\i1}at a Fuyuki City bayside warehouse district.
+TV: {\i1}We go live to the scene where...
+Kaye: What prevented you from killing Saber tonight,
+Kaye: not once, but twice?
+Kaye: I even had to squander a Command Spell,
+Kaye: and still, you didn't end it!
+Kaye: Was your battle really that much fun?
+Lance: It's not like that.
+Lance: I swear it on my pride as a knight:
+Lance: I will bring you Saber's head.
+Kaye: I don't need to hear you swearing anything!
+Kaye: Of course you will!
+Kaye: You made a pact with me to acquire the Holy Grail!
+Kaye: And yet you swear to defeat only Saber?
+Kaye: I don't think you understand how this works!
+Sola: Are you sure you aren't the one who's mistaken,
+Sola: Lord El-Melloi?
+Kaye: Sola-Ui...
+Sola: Lancer fought well.
+Sola: I think the problem was rooted in your judgment.
+Kaye: Saber is the strongest of all our opponents.
+Kaye: I didn't want to miss my chance to eliminate her.
+Sola: You dealt her a wound that cannot heal.
+Sola: All that's changed is that now you can defeat her at any time you please.
+Sola: And if you're so concerned by the threat Saber poses,
+Sola: why did you not target her Master instead?
+Sola: You were hiding in the shadows, like a pitiful coward.
+Sola: Kayneth,
+Sola: I don't know if you fully realize the advantage you hold
+Sola: over the other Masters.
+Sola: You added a non-standard clause to
+Sola: the traditional Master-Servant pact.
+Sola: The Command Spells are yours,
+Sola: while I act as a secondary Master and mana supply.
+Sola: Only the Necromancy Department's
+Sola: top performer could have pulled that off.
+Kaye: It's best to be conservative in the early going...
+Sola: Oh, really?
+Sola: But you were in such a hurry to have Lancer finish her off.
+Lance: That's enough, please.
+Lance: Any more, and I shall have to take it as an insult to my Master.
+Lance: As a knight, I cannot permit it.
+Sola: Oh, no.  I didn't mean...
+Sola: I'm sorry.  I went too far.
+Sola: What's that?
+Kaye: Okay, thank you.
+Kaye: A fire on a lower floor.
+Kaye: An arsonist, I'm sure.
+Sola: Arson?  On tonight of all nights?
+Kaye: They're just clearing the place out.
+Sola: Then we're under attack?
+Kaye: Obviously, Saber's Master will want to
+Kaye: break the spear's curse as quickly as possible.
+Kaye: Lancer, go downstairs, and greet them properly.
+Kaye: Do not let her escape alive.
+Lance: As you wish.
+Kaye: Perhaps our guests would like to test the magic atelier of Kayneth El-Melloi?
+Kaye: I've reserved an entire floor for my perfected atelier.
+Kaye: Twenty-four layers of barriers.
+Kaye: Three mana circuits.
+Kaye: Dozens of demonic spirits, acting as guard dogs.
+Kaye: Countless traps.
+Kaye: And hallways containing portals leading to alternate dimensions.
+Kaye: A match in which we can both use our powers to their full extent.
+Kaye: When I'm done, I'll have you retract
+Kaye: that "pitiful coward" remark.
+Sola: I shall be happy to.
+Man: Mr. Archibald!
+Man: Mr. Kayneth El-Melloi Archibald!
+Man: Are you here, sir?
+Kiri: Yes!
+Kiri: Don't worry, I'm right here.
+Kiri: Kayneth El-Melloi Archibald and his wife,
+Kiri: Sola-Ui, have evacuated the building.
+Man: I see...  Yes, very good, then.
+Man: Everyone's accounted for.
+Man2: Good.
+Kiri: All set here.  What's our status?
+Maiya: All clear.  Awaiting your signal.
+Kiri: Maiya...
+Maiya: The target has not moved at all.
+Maiya: He did not evacuate the hotel.
+Kiri: A 150-meter free-fall...
+Kiri: No magic barrier would protect you from that.
+Kiri: Fall back, Maiya.
+Kirei: Look at this.
+Kirei: It's difficult to believe that a mage
+Kirei: would resort to destroying an entire building.
+Kirei: But then...
+Kirei: Perhaps that's what makes you an expert at outwitting your fellow mages.
+Maiya: Kotomine Kirei...
+Kirei: I don't believe we've ever met,
+Kirei: but perhaps, you have a reason to know me?
+Kirei: In that case, I can guess who you are.
+Kirei: I dislike talking to myself, woman.
+Kirei: Just answer me this.
+Kirei: Where is the man who should have been here
+Kirei: in your stead?!
+Kirei: Not bad at all.
+Kirei: You've been well trained.
+Kirei: She didn't throw this.
+Kirei: Oh, well.
+Kirei: Just learning that someone else is watching out for her
+Kirei: has made this worthwhile.
+Ass: Kirei-sama.
+Kirei: I told you not to show yourself in public.
+Ass: My apologies.
+Ass: However, I have an urgent message to relay.
+Ass: We have located Caster.
+Kirei: I had Assassin proceed with an investigation.
+Kirei: Caster and his Master
+Kirei: have been snatching children from their beds,
+Kirei: in Miyama and in the next town over.
+Kirei: Over the course of the night, they abducted fifteen.
+Kirei: I'm nearly certain...
+Kirei: that they are the serial killer
+Kirei: that's had everyone up in arms recently.
+Kirei: They use magic with reckless abandon,
+Kirei: making no attempt, whatsoever, to hide it.
+Kirei: It seems as if they're not even particularly interested in the Holy Grail War.
+Toki: A mad Servant running amok,
+Toki: with a Master who doesn't care enough to control him?
+Toki: Why would the Grail have chosen trash like that?
+Risei: We cannot ignore this, Tokiomi-kun.
+Risei: Their actions are in flagrant violation of the rules!
+Toki: Absolutely.
+Toki: As a fellow mage, charged with the protection of magic's secrets,
+Toki: I won't stand for this.
+Risei: Our only real choice is to eliminate Caster and his Master.
+Kirei: Unfortunately, that will mean pitting
+Kirei: one of our Servants against them.
+Kirei: And I cannot deploy my Assassin.
+Risei: I do have the authority to make minor rule changes.
+Risei: Let us convince the other Masters to ally with us, against Caster.
+Kirei: Archer?
+Arch: You are better stockpiled than Tokiomi, even if it is a lesser quantity.
+Arch: What a pretentious pupil he has...
+Kirei: What do you want?
+Arch: I imagined you must be as bored as I.
+Kirei: Bored?
+Arch: Why else would a Master under Church protection
+Arch: be gallivanting about town alone?
+Kirei: I don't know what you mean.
+Kirei: Are you already dissatisfied with your pact, Gilgamesh?
+Arch: Tokiomi summoned me into this world,
+Arch: and his mana keeps my body here.
+Arch: And how could I ignore such an earnest vow of allegiance?
+Arch: But I had no idea he'd be so insufferable.
+Kirei: You don't care for Master Tokiomi's strategy?
+Arch: Reach the swirl of the Root?
+Arch: A dull goal for a dull man.
+Kirei: Finding the Root is a desire peculiar to mages.
+Kirei: Those who are not mages shouldn't comment.
+Kirei: In a sense, searching for the path to the Root
+Kirei: is tantamount to searching for the exit to this very world.
+Kirei: We who think only of the inside
+Kirei: can only perceive it as a foolish endeavor.
+Arch: Interesting.
+Arch: But what of you, Kirei?
+Arch: What would you ask of the Grail?
+Kirei: Me?
+Kirei: I have no wish for the Grail to grant...
+Arch: Oh, come now.
+Arch: Does the Grail not choose only those worthy of its power?
+Kirei: That was my understanding. I have no answer.
+Kirei: I cannot guess why it would choose me for this war
+Kirei: when I have neither ideals nor desires of my own.
+Arch: No ideals or desires, you say?
+Arch: Then why not simply wish for bliss?
+Kirei: Never! For my own bliss?
+Kirei: You would have me stain my soul, with such a sin?
+Arch: Sin? Stain your soul?
+Arch: Is that not a bit much?
+Arch: Why do you equate bliss with sin?
+Kirei: I...
+Arch: Yes, bliss gained by wickedness would be a sin.
+Arch: But happiness may be achieved through good works, as well.
+Arch: To associate bliss with sin, as an absolute,
+Arch: where is the logic in that?
+Kirei: There is no happiness within me.
+Kirei: Even should I search, I will not find it.
+Arch: Kotomine Kirei...
+Arch: Suddenly, I find you quite intriguing.
+Kirei: How do you mean?
+Arch: Exactly as I've said.
+Arch: Take a seat.
+Arch: Put another way, perhaps bliss is one shape the soul may take.
+Arch: It is not a question of whether it exists,
+Arch: but whether you know its appearance.
+Arch: Kirei,
+Arch: to claim there is no happiness within you
+Arch: is but to admit you have no idea
+Arch: what shape your soul has taken.
+Kirei: I hardly need a lowly Servant to lecture me.
+Arch: Don't start snapping at me, cur.
+Arch: Your tutor is a king who's sampled every form of bliss and luxury this world offers.
+Arch: Now hold your tongue.
+Arch: Kirei, you should learn what pleasure really is.
+Arch: Direct your gaze externally.
+Arch: In fact,
+Arch: why not begin by joining me right now?
+Kirei: I have no time to waste on frivolity.
+Arch: Don't say that.
+Arch: You can afford to enjoy yourself between Tokiomi's errands.
+Arch: Tell me, Kirei...
+Arch: Your job is to monitor the other five Masters, is it not?
+Kirei: It is.
+Arch: Don't focus merely on their intentions and strategies.
+Arch: Look at their motivations, as well.
+Arch: Then tell me about them.
+Kirei: I could ask the Assassins.
+Kirei: But, Archer, why should you care about all that?
+Arch: I've told you.
+Arch: I enjoy watching people as they scurry about.
+Arch: At least one or two should turn out to be interesting...
+Arch: Compared to Tokiomi, at least.
+Kirei: Fine, Archer.  I'll play along.
+Kirei: But it will take some time.
+Arch: That's just fine.  I shall be patient.
+Arch: In the meantime, I have your wine to occupy me.
+Kirei: A reason for seeking the Holy Grail...
+Kirei: I was too unguarded.
+Kirei: Certainly, it isn't for bliss or happiness!
+Kirei: However,
+Kirei: if I can learn what motivates that man,
+Kirei: will I learn what it is that I seek, as well?
+Kirei: Emiya Kiritsugu...
+Cast: Episode 6 A Night of Schemes
+Risei: I shall temporarily be changing the rules.
+Iry: They will kill Emiya Kiritsugu.
+Kiri: We can get away!  It's not too late!
+Lance: My spear will pierce Saber's skull!
+Saber: I won't fight you for the Grail!
+Cast: Don't get cocky with me, little girl!
+Cast: Next Time: Dark Forest
+Cast: 
+LT: This way.
+Capt: What in the world?
+LT: Get back to your posts.
+LT: It's like a giant drop of mercury.
+Capt: It almost looks alive.
+Capt: Must move it.
+LT: Is something wrong?
+Capt: Must move it.  Must move it.
+LT: Sir?
+Capt: Load it onto the truck!
+Capt: Move it!
+Risei: The Holy Grail War has been placed in grave danger.
+Risei: We have discovered that Caster's Master
+Risei: is the criminal behind the serial kidnappings,
+Risei: which have had Fuyuki City in an uproar.
+Risei: Therefore, exercising my emergency authority as the impartial mediator,
+Risei: I shall be changing the rules temporarily.
+Risei: All other Masters are to suspend
+Risei: their current actions, whatever they may be,
+Risei: and focus all efforts on Caster's elimination.
+Risei: Whoever eliminates Caster and his Master
+Risei: will be rewarded with extra Command Spells.
+Risei: They are Spells that went unused
+Risei: by the Masters defeated in the previous Holy Grail Wars.
+Risei: I expect that they would be a priceless commodity to all of you.
+Risei: Once we have confirmed Caster's death,
+Risei: we will resume the Holy Grail War proper.
+Risei: If any of you have questions, this is the time to ask.
+Risei: Although I must insist that only those of you
+Risei: capable of human speech do so.
+Toki: Well done, Father.
+Toki: That should have all the Masters fully engaged in this hunt.
+Risei: There were five familiars in the church.
+Risei: Which means...
+Toki: Which means that Lord El-Melloi is alive, despite his disappearance.
+Risei: Indeed.
+Risei: Promising extra Command Spells
+Risei: will attract Lord El-Melloi, who has already used one,
+Risei: and the other Masters as well.
+Risei: They will not want someone else to claim the extra Command Spells
+Risei: when they could have them for themselves.
+Toki: Yes, whoever obtains those Command Spells
+Toki: will have a considerable advantage.
+Risei: Of course, we wouldn't want that.
+Risei: Let those hounds sniff Caster out, soften him up,
+Risei: and Archer will be the one to finish him.
+Guy: E-Excuse me...
+Guy: Is this the Mackenzie household?
+Rider: That is the owners' name, yes.
+Guy: Right...
+Guy: Is there an "Iskandar, King of Conquerors" here?
+Rider: That would be me.
+Guy: Oh...
+Guy: Uh, pardon me.
+Guy: I'll need you to sign for this.
+Rider: My signature?
+Rider: But of course.
+Rider: There you go.
+Guy: T-Thank you...
+Guy: Master Strategist
+Rider: Having a world map across my chest is quite gratifying!
+Waver: Where did you get that?
+Rider: My package came today.
+Waver: You left the house?
+Rider: I tried out this so-called "mail-order service."
+Waver: I told you to stay on the second floor!
+Rider: The homeowners are away, and you were busy with your familiar.
+Rider: Only I could answer the door.
+Waver: I couldn't help it.
+Waver: A meeting called by the Holy Church isn't something I can ignore.
+Rider: You need not worry.
+Rider: I realized something when I saw Saber last night.
+Rider: There is no reason I cannot walk outside,
+Rider: provided I am wearing modern attire.
+Waver: Hey, wait!
+Waver: If you're gonna go out, at least put some pants on!
+Waver: Of course, leggings...
+Rider: Everyone in this country wears them.
+Rider: Are those really necessary?
+Waver: Absolutely essential!
+Waver: And I'll tell you right now,
+Waver: I'm not going out to buy any
+Waver: mega-sized pants for you.
+Rider: What?!
+Rider: Boy, would you stand between me and my world conquest?
+Waver: Your pants and your quest
+Waver: have nothing to do with one another, in any way, shape, or form!
+Waver: You can worry about having fun once you've defeated a Servant!
+Waver: Do that, and I'll buy you any pants you want!
+Rider: Oh?
+Rider: Very well.
+Rider: You swear that when I present you with an enemy's head,
+Rider: you will get me a pair of pants?
+Waver: You...
+Waver: You really want to go outside in modern casual wear, huh?
+Rider: The King of Knights did is already doing it.
+Rider: As a king, I cannot be outdone by her.
+Rider: Additionally, this design pleases me.
+Rider: It makes a fitting crest for such a ruler as I!
+Waver: We still have to find where Caster's hiding...
+Waver: What the heck are we doing?
+Iri: Kiritsugu, should we assume the others
+Iri: will now focus on Caster?
+Kiri: There is little doubt.
+Kiri: But we have an advantage when it comes to Caster.
+Kiri: I don't know if he's insane,
+Kiri: but he is coming after Saber because he thinks she is Jeanne d'Arc.
+Kiri: That gives us the advantage.
+Kiri: We can merely wait for an opportunity.
+Saber: That won't do, Master.
+Saber: His evil deeds are too heinous to overlook.
+Saber: We should seek him out
+Saber: before more innocents fall to his madness.
+Kiri: Iri, have you learned how to use the magical barriers in the forest?
+Iri: Yes, I have.
+Iri: I'm more worried about the curse on Saber's left hand.
+Iri: It's been eighteen hours since you defeated Kayneth,
+Iri: but your hand hasn't healed.
+Iri: Lancer is still alive.
+Iri: If we want to be completely prepared to fight Caster,
+Iri: maybe we should focus on defeating Lancer first?
+Kiri: I disagree.
+Kiri: Just use the terrain to your advantage, and do not let Saber stay still.
+Kiri: Do your utmost to confuse the enemy.
+Iri: You won't send her to fight Caster?
+Kiri: Someone will take him down eventually.
+Kiri: In fact, the fools who rush to fight him will be better prey for us.
+Kiri: I will attack from their flank.
+Saber: Master...
+Saber: How long...
+Saber: do you plan to continue this cowardice?!
+Saber: You shame the Heroic Spirits!
+Saber: Why do you not send me into battle?
+Saber: Have you so little faith in your Servant?
+Iri: We're supposedly in a truce with the others, right?
+Kiri: It's irrelevant.
+Kiri: I distrust the mediator.
+Kiri: He's harboring Assassin's Master, but pretends otherwise.
+Kiri: He may be in league with Tohsaka.
+Kiri: We are safer being suspicious.
+Kiri: That's all.  You're dismissed.
+Iri: Kiritsugu...
+Kiri: If...
+Kiri: If I...
+Kiri: If I decided right here to abandon all this, and go on the run...
+Kiri: Would you come with me, Iri?
+Iri: But what about Ilya?
+Iri: What about our daughter, who's still at the castle!
+Kiri: I'll return for her and kill any who stand in my way.
+Kiri: And after that...
+Kiri: I'll dedicate my life to caring for you two!
+Iri: Can we escape?
+Kiri: Of course we can!
+Kiri: It's not too late!
+Iri: You're lying.
+Iri: That's a lie.
+Iri: I know you can't run away.
+Iri: You would never forgive yourself
+Iri: for abandoning the Grail...
+Iri: For turning your back on the world.
+Iri: You would be the first and last to judge yourself,
+Iri: and it would mean the death of you.
+Kiri: I'm scared.
+Kiri: He...
+Kiri: Kotomine Kirei is after me.
+Kiri: Maiya told me.
+Kiri: He used Kayneth as bait to lure me into the open.
+Kiri: He knew how I operate.
+Kiri: I've already had to sacrifice you,
+Kiri: and left Ilya behind.
+Kiri: But the most dangerous of all is still after me.
+Kiri: The only one I didn't want to face!
+Iri: You're not fighting alone.
+Iri: I will protect you, as will Saber.
+Iri: And...
+Iri: Maiya-san's here, too.
+Iri: Kiritsugu!
+Kiri: An attack?
+Kiri: Luckily, Maiya has not yet left.
+Kiri: We can meet it head-on.
+Kiri: Iri, get a long-range crystal ball.
+Iri: There they are.
+Saber: Irisviel, the enemy is baiting us.
+Iri: They must be hostages.
+Saber: I'll have to go out and save them.
+Iri: He knows we're watching him!
+Cast: As promised the other night,
+Cast: I, Gilles de Rais, have come for you.
+Cast: I desire an audience with Jeanne, my beautiful virgin angel.
+Saber: Irisviel!
+Cast: Please take all the time you require.
+Cast: I have come fully prepared for a lengthy wait.
+Cast: Now my little lambs, time for a game of tag!
+Cast: The rules are simple.
+Cast: You must run away from me.
+Cast: If I catch you...
+Saber: Don't!
+Cast: Now, run!
+Cast: You have until I count to 100!
+Cast: So, Jeanne!
+Cast: How long do you think it will take me to catch them all?
+Iri: Saber, you must defeat Caster!
+Saber: Absolutely!
+Cast: Welcome, Jeanne!
+Cast: Don't you find this situation just heart-wrenching?
+Cast: Do you detest me?
+Cast: Of course you do.
+Cast: You would never forgive one who turned from God's love.
+Saber: Release that child, heretic!
+Cast: Jeanne,
+Cast: since you seem to truly care about this boy's life...
+Cast: Well, child, rejoice.
+Cast: God's most pious servant has come to your rescue!
+Saber: You're in danger here.
+Saber: Hurry, run away.
+Saber: Just up ahead, there is a large castle.
+Cast: Have you forgotten?
+Cast: I warned you last time that I would prepare more drastic measures.
+Saber: Be that as it may...
+Saber: This battle is longer about the Grail!
+Cast: Oh, Jeanne...
+Cast: What spirit, what bravery!
+Cast: My holy virgin, your will would overshadow God Himself!
+Saber: Caster!
+Saber: Now, I wield my sword solely to destroy you!
+Saber: {\i1}If I could only use my left hand!
+Iri: Even Caster can't have unlimited mana.
+Iri: If Saber can just survive until he runs out,
+Iri: she can defeat him.
+Iri: Right, Kiritsugu?
+Kiri: More importantly, have any other Masters  infiltrated the forest?
+Kiri: Maiya...
+Kiri: Take Iri, and get out of the castle.
+Kiri: Head away from Saber's battle.
+Iri: I can't stay here?
+Kiri: You aren't safe here,  with Saber fighting out in the forest.
+Kiri: I'm sure I'm not the only one who has realized that.
+Iri: Okay.
+Kiri: What is it, Iri?
+Iri: It seems a newcomer is joining the battle.
+Saber: What is this?
+Saber: Is there no limit to his mana?
+Saber: Wait...
+Saber: Could that be the source?
+Saber: Is that book your Noble Phantasm?
+Cast: Indeed.
+Cast: The tomes of the occult my mentor, Prélati, left me
+Cast: give me the power to command Hell's demonic legions.
+Cast: What do you think, Jeanne?
+Cast: It must be nostalgic for you.
+Cast: Everything is as it was  all those years ago.
+Cast: Your noble comportment, your indomitable spirit
+Cast: prove undeniably that you are none other than my Jeanne d'Arc!
+Cast: So why?!
+Cast: Why can you not see the truth?
+Cast: Because you still have absolute faith in God's protection?
+Cast: That you will miraculously be delivered from this evil?
+Cast: How deplorable!
+Cast: Have you forgotten what happened at Compiègne?
+Cast: Even after enduring such disgrace,
+Cast: you would still dance on your strings, as God's mindless puppet?
+Lance: Shameful, Saber.
+Lance: One expects superior swordsmanship from the King of Knights.
+Cast: Who are you?
+Cast: Who permitted you to stand in my way?
+Lance: That's my line, heretic.
+Lance: My spear will pierce Saber's skull!
+Cast: The Holy Grail granted my prayers, to revive that woman!
+Cast: She is mine.
+Cast: Every piece of flesh, every drop of blood... Her very soul belongs to me!
+Lance: Look, Caster.
+Lance: I have no problem with your romantic inclinations.
+Lance: If you wish to win Saber's heart, I will not interfere.
+Lance: However...
+Lance: I, Diarmuid, will not allow anyone
+Lance: to cut in and defeat an injured Saber
+Lance: before I've finished!
+Saber: Lancer, you...
+Lance: Don't get the wrong idea, Saber.
+Lance: I'm only here because I've been ordered to find and eliminate Caster.
+Lance: Cooperating with you is my best chance
+Lance: to accomplish that, don't you agree?
+Saber: For the record, Lancer...
+Saber: Even one-armed,
+Saber: I could kill another hundred or so of these pests.
+Lance: If only there were so few.
+Cast: I will not stand for this...
+Cast: Stay out of my way, you lowlife!
+Kaye: {\i1}Fervor, Mei Sanguis.
+Kaye: Ninth head of the Archibald family,
+Kaye: Kayneth El-Melloi, at your service.
+Kaye: Mage of the Einzberns,
+Kaye: let us battle with honor and dignity,
+Kaye: as we wager our lives for the Holy Grail!
+Kaye: Relying on simple traps?
+Kaye: How the mighty Einzberns have fallen.
+Kaye: So be it.
+Kaye: This is no longer a duel, but an extermination.
+Kiri: I see...
+Kiri: An automatic personnel detector.
+Kaye: There you are, you rat.
+Kaye: {\i1}Sculp!
+Kiri: {\i1}Time Alter: Double Accel!
+Kaye: Oh?
+Kaye: You created a reality-altering field in your own body,
+Kaye: allowing you to manipulate time into accelerating.
+Kaye: So you do have some knowledge of magic, after all.
+Kaye: Your disciplined use of magic
+Kaye: makes your reliance on cheap traps all the more despicable.
+Kaye: I will kill you to teach you your place.
+Kaye: {\i1}Ire Sanctio!
+Kaye: Manipulating his body's time must take a considerable toll.
+Kaye: Found him.
+Kaye: How far can he get in such an exhausted state?
+Kiri: {\i1}Time Alter: Triple Stagnate!
+Kiri: {\i1}This thing doesn't have eyes.
+Kiri: If I slow my body's time by two-thirds
+Kiri: and quiet my heartbeat and breath to their absolute limits...
+Kiri: It can't detect me.
+Kiri: Kayneth!
+Kaye: Fool, you've wasted your chance!
+Kaye: Episode 7 Dark Forest
+Iri: Maiya-san, don't!
+Kaye: You disgrace of a mage!
+Cast: You will know terror and hopelessness!
+Lance: Pierce through, Gáe Dearg!
+Kirei: Who ordered you to fight?
+Saber: Prepare yourself, heretic.
+Saber: Next Time: The Mage-Slayer
+Saber: 
+Maiya: Madam?
+Maiya: We must hurry.
+Maiya: Madam?
+Iry: Another intruder...
+Iry: Directly ahead of us.
+Iry: If we go this way, we'll run into him.
+Maiya: Understood.  We'll detour to the north.
+Maiya: Madam?
+Iry: It's...
+Iry: Kotomine Kirei.
+Maiya: Kotomine Kirei?
+Iry: Maiya-san, Kiritsugu ordered you
+Iry: to keep me safe, right?
+Maiya: Yes.
+Maiya: But...
+Iry: But what?
+Iry: We absolutely cannot let that man reach Kiritsugu.
+Iry: Isn't that what you're thinking?
+Maiya: Madam, how did you―
+Iry: What a coincidence.
+Iry: As it happens, I feel the same way.
+Iry: Kotomine Kirei probably poses the greatest threat to Kiritsugu.
+Iry: We must keep him at bay.
+Iry: Right, Maiya-san?
+Maiya: I apologize.
+Maiya: Please ready yourself, madam.
+Iry: I will.
+Iry: Don't worry about me.
+Iry: Just focus on the task before you.
+Iry: Rather than follow Kiritsugu's orders,
+Iry: do what you believe to be the right course of action.
+Maiya: Yes.
+Maiya: What is it?
+Iry: The human heart is a funny thing, isn't it?
+Kaye: Repeating the same ineffective attacks...
+Kaye: {\i1}Scalp!
+Kaye: He penetrated Volumen Hydragram's autonomous defense?
+Kaye: No...
+Kaye: His childish trickery made me lower my guard.
+Kaye: I'll defend myself more quickly and effectively next time.
+Kaye: You disgrace of a mage.
+Kaye: You worthless thug!
+Kaye: You will pay for spilling my blood,
+Kaye: with your life.
+Kiri: {\i1}After that attack, he knows how powerful this weapon is.
+Kiri: {\i1}The same tactic won't work twice.
+Kiri: {\i1}He'll probably pour every bit of mana he has into defense.
+Kiri: {\i1}Of course...
+Kiri: {\i1}That's exactly what I'm counting on.
+Kirei: An illusion?
+Iry: Maiya-san, don't!
+Maiya: Madam...
+Maiya: No!
+Kirei: This may surprise you, woman,
+Kirei: but it is not my objective to kill you.
+Iry: I know that, Kotomine Kirei.
+Iry: I know your true objective.
+Iry: But I'll tell you nothing.
+Iry: You will not reach to Emiya Kiritsugu.
+Iry: We will stop you.
+Iry: Here.
+Maiya: Madam!
+Maiya: He is an Executor...
+Maiya: A special agent trained to kill mages!
+Maiya: Normal magic won't be enough to defeat him!
+Iry: Kiritsugu's taught me more than how to drive.
+Iry: He's taught me how to live.
+Iry: And how to survive!
+Iry: {\i1}Shape Ist Leben!
+Maiya: Madam!
+Iry: That won't work!
+Iry: Maiya-san!
+Iry: Do it!
+Iry: No way...
+Maiya: Son of a...
+Lance: All this effort, yet we still have no opening.
+Lance: This has gone from annoying to downright frustrating.
+Saber: It's that grimoire, Lancer.
+Saber: As long as he holds his Noble Phantasm,
+Saber: our tactical situation will not improve.
+Lance: I see.  So that's it.
+Lance: Knocking that book away from its gaunt owner
+Lance: still means breaking through this wall of monsters.
+Saber: Lancer, are you willing to try an all-or-nothing gamble?
+Lance: The thought of being forced to it chafes me,
+Lance: but fighting these beasts is just as galling.
+Lance: All right.
+Lance: I'm in, Saber.
+Saber: I shall clear a path, but we will have only one chance.
+Saber: Lancer, can you run on the wind?
+Lance: I understand.
+Lance: It will present no problem.
+Cast: Have you said your final prayers?
+Cast: You will know terror...
+Cast: Hopelessness.
+Cast: Superior skill can do only so much against overwhelming numbers.
+Cast: Isn't it mortifying?
+Cast: You'll die, suffocated by a host of spirits and devils,
+Cast: with neither honor nor valor.
+Cast: No hero could abide such humiliation.
+Cast: Ah, that beautiful face...
+Cast: I want to see it twisted with pain, Jeanne!
+Saber: {\i1}Strike Air!
+Lance: Prepare yourself!
+Lance: Pierce through, Gáe Dearg!
+Cast: Damn you...
+Cast: Damn you, damn you, damn you, damn you, damn you, damn you!
+Cast: Damn you!
+Lance: How about that?
+Lance: If Saber still had the use of her left hand,
+Lance: this would have been the result.
+Saber: Prepare yourself...
+Saber: heretic.
+Kaye: Ridiculous.
+Kaye: I did not enter the Holy Grail War
+Kaye: to fight these kinds of battles!
+Kaye: Where is he?
+Kaye: Found you.
+Kaye: You filthy rat.
+Kaye: You aren't really planning to use
+Kaye: the same tactic again, are you?
+Kaye: Scum!
+Kaye: Don't delude yourself that this wound resulted
+Kaye: from any brilliant strategy or scheme.
+Kaye: It was merely an absurd coincidence,
+Kaye: and you are about to learn the difference.
+Kaye: It won't be quick, either.
+Kaye: I shall continuously heal your lungs and heart,
+Kaye: as I shred your flesh from head to toe.
+Kaye: You will suffer, despair, and languish as you die.
+Kaye: And in your final moments,
+Kaye: you will curse your cowardly employers,
+Kaye: the Einzberns, for making a mockery of the Holy Grail War!
+Kaye: {\i1}Fervor Mei Sanguis!
+Kaye: I knew you'd try that again, imbecile!
+Saber: Fight all you like.
+Saber: How cowardly can you be?
+Saber: Lancer.
+Saber: Is something wrong?
+Lance: My Master is in danger.
+Lance: It seems he's left me here, while he attacks on the castle.
+Saber: I'm certain my Master is behind this.
+Saber: You should go, Lancer.
+Saber: Save your Master.
+Lance: King of Knights...
+Lance: I am in your debt.
+Saber: No.
+Saber: We swore, on our pride as knights, to finish our battle honorably.
+Saber: Let us abide by that oath.
+Saber: In the end,
+Saber: has everything gone as Kiritsugu planned?
+Nat: Your origin lies in severing and binding, kiddo.
+Nat: Cutting and connecting.
+Nat: The nuance is a bit different from destroying and regenerating.
+Nat: If you cut a thread and tie the ends together again,
+Nat: the thread will be thicker where you tied it, right?
+Nat: In other words, the change is irreversible.
+Nat: I ground up part of your ribs,
+Nat: and put some in this bullet.
+Nat: Your origin will manifest in anything you shoot with it.
+Nat: It will be especially effective against mages.
+Nat: You see, if they try to deflect it with magic,
+Nat: your origin will cut their Magic Circuits,
+Nat: then haphazardly tie them.
+Nat: The more capable the mage,
+Nat: the worse the Circuits will misfire and short out.
+Nat: Of course, the victim will never function properly again...
+Nat: Neither as a mage nor as a person.
+Nat: This will be for your Mystic Code, kiddo,
+Nat: the origin shot.
+Nat: I made sixty-six rounds.
+Nat: Use them wisely.
+Lance: You do know how easily I could spear you right now,
+Lance: Master of Saber?
+Kiri: So that's how it is...
+Lance: I will not let my Master be killed.
+Lance: Nor will I kill Saber's Master.
+Lance: Neither she nor I wish our battle to end this way.
+Lance: Do not forget,
+Lance: the only reason you leave this place alive
+Lance: is the honor of the King of Knights.
+Kirei: One question, woman.
+Kirei: It appears that you two faced me with the intent
+Kirei: of protecting Emiya Kiritsugu.
+Kirei: But who ordered you do so?
+Kirei: Without any Command Spells, you are not the Einzbern Master.
+Kirei: I assume
+Kirei: you are a homunculus, assigned to protect the Grail Vessel.
+Kirei: Not someone, in my estimation,
+Kirei: who would be foolish enough to appear on the front lines.
+Kirei: So I ask you again...
+Kirei: Who ordered you to fight?
+Ass: Kirei-sama...
+Ass: Caster, as well as Lancer and his Master
+Ass: have withdrawn from the forest.
+Ass: Saber closes on our location.
+Ass: You are in danger here, my Master.
+Kirei: Interesting...
+Kirei: So it really is red.
+Kirei: {\i1}Is it possible?
+Kirei: {\i1}Could these women have tried to fight me
+Kirei: {\i1}of their own free will?
+Kirei: {\i1}No.
+Kirei: {\i1}Emiya Kiritsugu is like me,
+Kirei: {\i1}an enigmatic, isolated man.
+Kirei: {\i1}A man filled with emptiness.
+Kirei: {\i1}He must be.
+Saber: Irisviel...
+Saber: Irisviel!
+Saber: Stay with me.
+Iry: Saber...
+Saber: Don't speak!
+Saber: Just stay awake!
+Saber: I'll get Kiritsugu.
+Saber: Hold on until I return!
+Iry: Where's Kirei?  The man who attacked us.
+Saber: He escaped.
+Saber: Had I been here but a moment sooner,
+Saber: this would not have happened.
+Iry: How is Maiya-san?
+Saber: She is badly injured, but her life is not in danger.
+Saber: We must worry about you!
+Saber: You've lost so much blood...
+SabeR: Irisviel?
+Saber: But, how?
+Kiri: I want you to take Avalon.
+Iry: But this is a Noble Phantasm that heals its owner's wounds.
+Iry: Shouldn't you carry it?
+Kiri: No.
+Kiri: Unless its original owner, Saber, is close enough to provide mana,
+Kiri: the scabbard's power won't activate.
+Kiri: You will be the one working alongside Saber from now on, Iri.
+Kiri: Keep it inside you, as a Conceptual Armament.
+Kiri: Also,
+Kiri: tell no one else about it.
+Kiri: Not even Saber.
+Iry: {\i1}I felt Avalon's healing power from the moment you touched me.
+Iry: {\i1}Thank you, Saber.
+Iry: {\i1}Kotomine Kirei...
+Iry: {\i1}That Executor is as dangerous as we thought.
+Iry: {\i1}Or perhaps, even worse.
+Iry: {\i1}We were lucky tonight,
+Iry: {\i1}but there's no telling what will happen next time.
+Iry: {\i1}One thing is clear.
+Iry: {\i1}I cannot allow him near Kiritsugu.
+Iry: {\i1}But I'm not the only one protecting Kiritsugu.
+Iry: {\i1}Right, Maiya-san?
+Iry: {\i1}We'll win next time.
+Iry: {\i1}Together, we'll keep Kiritsugu safe.
+Iry: Episode 8: The Mage-Slayer
+Rider: My Master is in danger.
+Toki: Battles must be fought with dignity.
+Lance: I cannot agree to that.
+Solu: Please give me your Command Spells.
+Kaye: Lancer is not so obliging!
+Kaye: Next time: Master and Servant
+King: Fionn mac Cumhaill, hero of Aillen and leader of the knights of Fianna,
+King: is now formally betrothed to my daughter Gráinne.
+King: My loyal subjects, let us celebrate!
+Grain: That striking man with the mole beneath his eye...
+Grain: What is his name?
+Maid: He is a knight of Fianna, Diarmuid Ua Duibhne.
+Grain: Diarmuid...
+Fionn: Traitor...
+Fionn: You will pay, Diarmuid!
+Grain: Take me from here...
+Grain: Let us run, together.
+Lance: Rejoice, Gráinne!
+Lance: Fionn has accepted our love!
+Fionn: You thought I'd forgiven you for stealing Gráinne away?
+Kaye: A dream?
+Kaye: That dream was...
+Kaye: It was Diarmuid's legend.
+Kaye: My Servant's memories?
+Kaye: Where am I?
+Sola: You're awake.
+Kaye: Sola-Ui...
+Kaye: What is this?
+Kaye: What am I doing here?
+Sola: You remember nothing, do you?
+Kaye: I...
+Kaye: I was shot.
+Kaye: I remember defending myself with Volumen Hydragram, but...
+Kaye: What's happened to me?
+Sola: Apparently, every Magic Circuit in your body has shorted out.
+Sola: It's a miracle you weren't killed instantly.
+Sola: I was able to save your internal organs, but that's all.
+Sola: Your Magic Circuits were destroyed.
+Sola: You'll never cast a spell again.
+Kaye: I... I...
+Sola: Don't cry, Kayneth.
+Sola: It's too early to give up.
+Sola: We haven't been defeated yet.
+Kaye: Sola-Ui...
+Sola: If the Holy Grail can truly grant wishes with its omnipotence,
+Sola: full restoration of your body is sure to be well within its ability.
+Sola: We merely need to win.
+Sola: If we are victorious  and claim the Grail,
+Sola: everything will return to normal.
+Sola: So... My dear Kayneth?
+Sola: Please give me your Command Spells...
+Sola: I'll stand in for you, as Lancer's Master,
+Sola: to bring you the Holy Grail.
+Kaye: N-No!
+Sola: Don't you trust me?
+Sola: The woman who would marry into the Archibald family?
+Kaye: I do, but...
+Kaye: Sola-Ui,
+Kaye: do you believe that Lancer
+Kaye: will swear his allegiance to youinstead of me?
+Sola: Yes.
+Sola: He is a Heroic Spirit who responded to the Holy Grail's invitation.
+Sola: He desires the Grail, just as we do.
+Sola: I'd expect even a change in Masters would be acceptable,
+Sola: if it will bring him closer to his goal.
+Kaye: Sola-Ui!
+Kaye: Lancer isn't as admirable as he seems!
+Sola: Why would you say a thing like that?
+Kaye: When I asked him of his wish,
+Kaye: he told me, "I have no interest in the Holy Grail."
+Kaye: A Servant who cares nothing for the Grail is impossible.
+Kaye: He is hiding his true intentions.
+Kaye: But whatever he's trying to conceal,
+Kaye: so long as I have these Command Spells,
+Kaye: he must obey.
+Sola: Kayneth...
+Kaye: I won't give them up...
+Sola: Kayneth, you don't seem to realize...
+Sola: That we must win, no matter the cost.
+Sola: You see, Kayneth...
+Sola: My spiritual healing ability
+Sola: cannot forcefully remove those Command Spells from you.
+Sola: Only through your willing agreement
+Sola: may I take them without resistance.
+Sola: If you continue to categorically refuse, I'll have no choice
+Sola: but to remove your right arm.
+Sola: So?
+Saber: Irisviel?
+Iri: Don't worry.
+Iri: Magical healing takes quite a toll on the target.
+Iri: It will be a while before she regains consciousness.
+Iri: Could you keep an eye on her for me?
+Saber: Are you going to report to Kiritsugu?
+Iri: I'm sure he's worried, too.
+Saber: Irisviel, I have a request.
+Saber: Please tell Kiritsugu something...
+Saber: Please urge him to prioritize Caster's elimination.
+Iri: Saber...
+Saber: If he's allowed free reign,
+Saber: more innocent children will be murdered.
+Iri: Kiritsugu?
+Kiri: How long until we can use Maiya?
+Iri: She won't be able to move for a day or two.
+Kiri: I see.
+Kiri: You and Saber stand by here.
+Kiri: I'm going to finish off Kayneth.
+Iri: Wait, Kiritsugu!
+Kiri: Did Saber argue that we should deal with Caster immediately?
+Iri: Huh?
+Kiri: I thought so.
+Iri: Are you mad at Saber for letting Lancer go?
+Kiri: Iri...
+Kiri: Saving a few children,
+Kiri: or even a few dozen,
+Kiri: is not our priority.
+Kiri: Saber trusted Lancer not to kill me,
+Kiri: but what if he had betrayed his word?
+Kiri: Our Holy Grail War would have ended there.
+Kiri: Don't tell her where I'm going, either.
+Sola: Lancer?
+Sola: Please come out here.
+Lance: Lady Sola-Ui, how is Lord Kayneth's condition?
+Sola: It's very serious...
+Sola: I've done all I can for him, but...
+Sola: Don't blame yourself!
+Sola: It's Kayneth's fault!
+Sola: All it means is that he couldn't handle the Grail War.
+Sola: No, but...
+Sola: He simply isn't a suitable Master for you, Diarmuid.
+Sola: Kayneth has retired from this War,
+Sola: transferring his authority, as Master, to me!
+Lance: I've sworn my fealty as a knight to Lord Kayneth.
+Lance: Lady Sola-Ui, I cannot agree to that.
+Sola: What?
+Sola: But as a Servant,
+Sola: is it not my mana that maintains your physical form?
+Sola: And I even have his Command Spells now!
+Lance: Before I am a Servant, I am a knight.
+Lance: I can only serve one lord.
+Sola: So I'm not worthy to be your Master?
+Lance: That isn't what I'm saying...
+Sola: Look me in the eye when you address me!
+Sola: Lancer...
+Sola: Fight with me, and protect me!
+Sola: Support me, and we'll claim the Holy Grail together!
+Lance: I cannot.
+Lance: If Lord Kayneth has truly withdrawn,
+Lance: I shall no longer seek the Grail.
+Sola: A miracle is his only chance to be healed!
+Sola: And the Grail is the single way to bring about that miracle.
+Sola: If you feel regret over his condition...
+Sola: If you would restore Lord El-Melloi to his former stature...
+Sola: Then you must deliver the Grail to your Master!
+Lance: Lady Sola-Ui,
+Lance: you, as Lord Kayneth's partner,
+Lance: seek the Grail solely to save him?
+Lance: Correct?
+Sola: Y-Yes...
+Sola: Of course!
+Lance: Then will you swear to it?
+Lance: You have no other motive?
+Sola: I swear...
+Sola: As Kayneth El-Melloi's wife,
+Sola: I shall bring the Grail to him.
+Lance: {\i1}She has the same look in her eyes
+Lance: {\i1}that Gráinne did.
+Lance: {\i1}I bear no grudge against anyone.
+Lance: {\i1}However,
+Lance: {\i1}fate has truly treated me unkindly.
+Lance: {\i1}In this era, my wish is but to
+Lance: {\i1}tread the path of loyalty I was unable to hold to before.
+Lance: {\i1}I do not wish to repeat that pain.
+Lance: {\i1}But...
+Waver: Er...
+Glenn: Quite a drinker, eh?
+Rider: Ah, many thanks!
+Martha: You should have told us you were  bringing a guest!
+Rider: Oh, I wouldn't have it any other way, ma'am.
+Rider: A simple, home-cooked meal is the greatest form hospitality.
+Martha: Such flattery!
+Waver: I told you...
+Waver: to dematerialize...
+Waver: when you come and go!
+Rider: But then I wouldn't have been able to carry this.
+Rider: To do so, I also obtained this fine pair of pants.
+Rider: Besides, boy, you were the one who ordered me to go.
+Rider: And why should the King of Conquerors
+Rider: need to fetch water from a common country river?
+Waver: Because it's more useful than sitting around,
+Waver: stuffing your face and watching TV.
+Rider: What's this?
+Rider: Pretend alchemy?
+Waver: Not pretend alchemy.
+Waver: It's actual alchemy, dummy.
+Rider: So what's that?
+Waver: Spell casting residue.
+Waver: Basically, the traces of magic that remain in the water.
+Waver: It indicates that someone
+Waver: was using magic near the river's mouth.
+Waver: If we follow this trail,
+Waver: we might find some clues.
+Rider: Boy, did you know from the start that you'd find something
+Rider: like that in the water?
+Waver: Of course not.
+Waver: But the river cuts right through the city center.
+Waver: It was the obvious place to start.
+Waver: Rider.
+Waver: Did you notice anything between these two points?
+Waver: Like a drainage pipe or an irrigation channel?
+Rider: Yeah!
+Rider: I saw a large one around there.
+Waver: That's it.
+Waver: If we follow it, it'll probably take us
+Waver: straight to Caster's laboratory.
+Rider: Boy, could you actually be
+Rider: an incredibly talented mage?
+Waver: This isn't the method a talented mage would use.
+Waver: It's probably the simplest possible way.
+Waver: You're mocking me, aren't you?
+Rider: Certainly not!
+Rider: It's a much greater accomplishment to achieve your ends through simple means.
+Rider: rather than starting with a grand plan.
+Rider: As your Servant, I'm filled with pride!
+Rider: Okay...
+Rider: If we can but locate him, victory will be ours.
+Rider: What say we go and give him a good thrashing, boy?
+Waver: Hold on.
+Waver: We're fighting Caster, remember?
+Rider: I know.
+Waver: You don't know!
+Waver: He'll have every advantage
+Waver: when it comes to defending his territory.
+Waver: What kind of idiot would just charge straight in?
+Rider: Listen...
+Rider: In war, control over territory may shift at any moment.
+Rider: If you do not strike at your opponents the moment you locate them,
+Rider: you will regret your inaction if they escape.
+Waver: Why are you so pumped up today?
+Rider: Why do you think?
+Rider: My Master has finally accomplished something worthwhile.
+Rider: As his Servant,
+Rider: it spurs me further onward,
+Rider: to go forth and retrieve the enemy's head!
+Rider: Do not give up when we've yet to start.
+Rider: At any rate, what say you to simply venturing in?
+Rider: It may pay off in ways you cannot yet conceive.
+Rider: Here it is!
+Rider: See, this pays off already!
+Rider: Bah...
+Rider: Unfortunately, Caster's not at home.
+Waver: Is this some kind of water storage?
+Rider: Ah, boy...
+Rider: I think it's better if you don't see this.
+Waver: Are you kidding me?
+Waver: If Caster isn't here,
+Waver: we should at least look for clues to where he went,
+Waver: or we'll never find him.
+Rider: That may be so, but don't do it.
+Rider: This is too much for you.
+Waver: Shut up.
+Rider: I did try to warn you.
+Waver: Shut up!
+Waver: Damn it, don't make fun of me...
+Waver: Damn it...
+Rider: This is no time for stoicism, fool.
+Rider: Well, this is right...
+Rider: I'd pummel any man who could look upon this
+Rider: without flinching.
+Waver: Pummeling who exactly?
+Waver: You, yourself,
+Waver: appear perfectly calm!
+Rider: Trust me...
+Rider: This is no time to be emotional.
+Rider: It's because my Master is in danger!
+Waver: Assassin?
+Waver: That's impossible!
+Waver: Assassin's already dead.
+Rider: There isn't time for surprise, boy.
+Waver: H-How?
+Rider: The how of it matters not to us.
+Rider: There is one thing we know for sure.
+Rider: Any who believed Assassin was dead
+Rider: has been gravely fooled...
+Waver: They ran...
+Waver: Didn't they?
+Rider: Do not relax your guard.
+Rider: Two have fallen, but at least two remain.
+Rider: And we have no means to know how many more
+Rider: Assassins there may be.
+Rider: This location favors their strengths.
+Rider: We should withdraw immediately.
+Waver: Should we really just leave it like this?
+Rider: We may learn something by investigating,
+Rider: But leave it.
+Rider: If we destroy the place,
+Rider: it should at least set Caster back.
+Rider: With his lair in ruins,
+Rider: Caster will have nowhere to run or hide.
+Rider: He'll be forced into the open.
+Rider: It won't be long before we canbe finished with them.
+Waver: I get it...
+Waver: Knock it off!
+Rider: Let us leave, boy.
+Toki: Don't dwell on it, Kirei.
+Toki: It's doubly unfortunate that Assassin was revealed
+Toki: before we uncovered Rider's final attack.
+Toki: But we've learned
+Toki: that Rider's Master is no more than a third-rate mage.
+Kirei: Which is why, had they not been seen...
+Toki: You would have had more options?
+Kirei: Yes.
+Toki: Naturally, planning is paramount,
+Toki: but you must always retain your confidence and elegance.
+Toki: Even battles should be fought with dignity.
+Arch: {\i1}But I had no idea he'd be so insufferable.
+Toki: Another chance to see Rider's final Noble Phantasm will come.
+Toki: Have Assassin take extra precautions,
+Toki: but continue to observe him.
+Kirei: Understood, my mentor.
+Kirei: Episode 9: Master and Servant
+Toki: Did I expend too much mana at once?
+Rin: There's gotta be some way I can help!
+Aoi: She couldn't have gone to Fuyuki...
+Kari: Here is the Matou family magic.
+Ryuu: The party's just about to start.
+Rin: I can't do anything!
+Rin: Next Time: Rin's Adventure
+Rin: Huh?
+Toki: Rin.
+Rin: Stop it!
+Rin: Look at you, ganging up and bullying her this way!
+Rin: You're just a couple of slimeballs! Absolute slimeballs!
+Boy: Back off, Tohsaka. This is none of your business!
+Rin: Fine.
+Rin: Then why not treat me the same way?
+Rin: Then it'll be my business, too.
+Boy: Come on.
+Boy: Forget this!
+Rin: Here.
+Book: JapaneseYear 2
+Toki: You used too much mana at once.
+Toki: Keep your mind on the task.
+Toki: In order to control mana,
+Toki: you must maintain control of your mind.
+Toki: If you lose control,
+Toki: all the mana will rebound on you.
+Toki: Use too much, and you risk not only yourself,
+Toki: but those around you.
+Toki: Always endeavor to maintain the proper flow.
+Toki: That's the essence of the Tohsaka family creed.
+Toki: Act with composure and elegance.
+Rin: You have to stick up for yourself, Kotone.
+Rin: When they act like that, you have to get mad!
+Koto: You're so cool, Rin-chan.
+Koto: I could never tell them off that way.
+Rin: I'm not cool.
+Rin: It's perfectly normal and natural.
+Rin: {\i1}Yeah... Natural.
+Toki: Hold out your hand.
+Rin: Teach me more, Father!
+Rin: How can I make something like this?
+Toki: I don't know...
+Toki: Right now, it might be a little difficult for you.
+Toki: But if you practice every day, you'll be able to do it, too.
+Toki: Remember, you're a daughter of the Tohsaka family.
+Girl: Hey, Rin-chan,
+Girl: could you please help me with a problem?
+Rin: Sure, which one?
+Girl2: Me, too!
+Girls: And me!
+Rin: They teach you the method on page twenty-three.
+Rin: You just have a small math error here.
+Girl: Oh!
+Rin: This problem...
+Rin: See? It's just like this example.
+Girls: Wow...
+Girls: Rin-chan, you're great!
+Rin: Kotone?
+Rin: Sit down. I'll walk you through it.
+Koto: Okay!
+Rin: Do we really have to live with the Zenjo?
+Koto: Once the Holy Grail War begins,
+Koto: Fuyuki City will no longer be safe.
+Rin: But I want to help you win the Holy Grail War...
+Ao: Rin, don't upset your father.
+Rin: Are we in the way?
+Toki: Not at all.
+Toki: I just want to make doubly sure that
+Toki: everything goes exactly according to plan.
+Toki: And part of that is ensuring you and your mother are safe.
+Toki: You'll be much safer outside Fuyuki City.
+Rin: There's gotta be some way I can help!
+Rin: {\i1}Yeah, I just haven't learned everything I need to know yet.
+Rin: {\i1}All I have to do is study on my own!
+Rin: I-I don't understand a word of this...
+Rin: What the heck?
+Rin: Jeez!
+Book: Du, wer die Tur geoffnet hat, wird Freunde sein.
+Rin: Gotta close it.
+Book: Fur die Aussage nimm meine Hand.
+Book: Wir weden in meinem Zimmer treffen.
+Book: Sind deine Hande, Klein? Gross?
+Rin: It won't move!
+Book: Schlank? Steif?
+Toki: Rin, are you all right?
+Book: Jede Hand ist dankbar.
+Book: Ich will sie erhalten.
+Book: Ich schneide sie vorsichtig...
+Toki: It's still too early for you to read that book.
+Toki: You'll encounter things in this world
+Toki: that are, themselves, imbued with mana.
+Toki: This is called a mana compass.
+Toki: Normally, it won't point toward anything.
+Toki: But when you get near traces of mana...
+Toki: Rin, put some mana into this.
+Rin: Okay.
+Toki: It reacts like so.
+Toki: Now take that book...
+Toki: That reaction means it's something beyond your ability,
+Toki: so you should be careful.
+Toki: You may have this. Consider it an early birthday present.
+Rin: Thank you, Father!
+Toki: When the Grail War is over,
+Toki: I'll give you a real education in Gem Magic.
+Rin: {\i1}Not long after, strange things started happening.
+Rin: Another study hall?
+[Board: Study Hall
+BoyB: Another kidnapping was on the news this morning.
+News: {\an7}Kidnappings continue
+News: In Fuyuki City, cases of children suddenly disappearing are becoming frequent.
+GirlC: The teachers have been meeting all day.
+Sign: Meeting in progress
+Boy: There's not gonna be a fifth period today!
+Kids: {\an7}Fifth period canceled
+Kids: {\an9}Beware suspicious individuals when walking to and from school!!
+Kids: All right!
+Kids: But we have to go home...
+Kids: How come?
+Voices: Kidnapping...
+Kids: But it's only children being kidnapped.
+Girl: Hey, did you hear?
+Woman1: The corpse isn't in the casket.
+Woman2: Its condition must have been too gruesome.
+Woman3: It happened in Fuyuki, right?
+Rin: H-Hi, I'm Tohsaka,
+Rin: one of Kotone-chan's classmates...
+Phone: Sorry, we're not home right now.
+Phone: Please leave your message after the beep.
+Rin: {\i1}Please be okay...
+Rin: {\i1}Kotone.
+Rin: So this is Fuyuki after dark...
+Rin: It's totally different...
+Rin: I don't like this feeling.
+Rin: What's happening?
+Rin: I've never seen it do this.
+Rin: Does it mean traces of mana are everywhere?
+Rin: I have to find Kotone!
+Rin: Going for a walk with your kid this late?
+Rin: What was that?
+Rin: Uh-oh!
+Rin: That was close. If they'd seen me, they'd have taken me home.
+Ryuu: Come on... Pick up your feet.
+Rin: {\i1}Two of them?
+Rin: There's another kid now.
+Rin: But why?
+Rin: {\i1}This is pointless...
+Rin: {\i1}Why am I hiding?
+Rin: {\i1}I can't do anything like this!
+Rin: No one's here?
+Rin: H-Hey!
+Rin: Kotone?
+Rin: Kotone! Kotone!
+Rin: Someone's done something to her.
+Rin: What do I do? I have to help...
+Ryuu: Oh? What's wrong? Are you lost?
+Rin: No... I...
+Ryuu: It's perfect.
+Ryuu: We're just about to start the party.
+Ryuu: But we need more people.
+Ryuu: Won't you help?
+Ryuu: You know, like they say, the more, the merrier.
+Rin: No!
+Rin: What was that?
+Ryuu: Don't try to run...
+Rin: He's using that bracelet on them?
+Ryuu: Ow!
+Rin: I have to break it!
+Ryuu: Ah, so you're going to help, after all!
+Ryuu: Huh?
+Ryuu: What's that?
+Toki: {\i1}You used too much mana at once.
+Rin: I'll destroy this thing!
+Ryuu: What...
+Rin: Kotone!
+Kotone: Rin-chan...
+Kids: What is this place?
+Rin: There's no time to cry! Everyone, run!
+Ryuu: Wait! Stop!
+Ryuu: He's probably gonna be pissed.
+Kotone: Huh?
+Kotone: Where's Rin-chan?
+Rin: Thank goodness...
+Rin: Time to go home.
+Rin: I did it, Father.
+Rin: Huh?
+Toki: {\i1}That reaction means it's something beyond your ability,
+Toki: {\i1}so you should be careful.
+Aoi: Rin...
+Aoi: I can't believe she went to Fuyuki...
+Aoi: Rin!
+Aoi: Rin...
+Kari: Rin-chan's fine. She's just asleep.
+Aoi: Kariya-kun?
+Aoi: What? What's this all about?
+Aoi: What are you doing here?
+Aoi: Your face...
+Kari: This is the Matou family magic.
+Kari: You offer your flesh, and let it eat away at your life.
+Kari: And your sacrifice is repaid with magic.
+Kari: But Sakura-chan's okay.
+Kari: I promise to save her before she ends up like me.
+Kari: Zouken cares only for the Holy Grail.
+Kari: He promised to free Sakura-chan
+Kari: if I win it for him.
+Aoi: The Holy Grail?
+Kari: Yes, so there's nothing to fear.
+Kari: My Servant is the strongest.
+Kari: No one stands a chance against him.
+Kari: Right now, even clinging to hope is painful for Sakura-chan.
+Kari: So pray for her, in her stead.
+Kari: Pray that I win, that Sakura-chan has a future...
+Aoi: Kariya-kun, you...
+Kari: Someday, we'll all come to this park and play, like we used to.
+Kari: And Rin-chan and Sakura-chan can be sisters, like they once were.
+Kari: So you don't have to cry anymore, Aoi-san.
+Aoi: Kariya-kun... Do you want to die?
+Aoi: To take Tokiomi with you?
+Rin: Mother?
+Aoi: Rin! I was so worried...
+Rin: I'm sorry...
+Rin: I'm sorry. I'm sorry...
+Ass: Kirei-sama,
+Ass: shall I leave Tohsaka Tokiomi's wife and daughter
+Ass: to their own devices?
+Kirei: Yes. Continue to trail Berserker's Master.
+Ass: Understood.
+Rin: It wasn't much, but I managed to accomplish something.
+Rin: Not that I'm ready to stand on my own just yet.
+Rin: After all, I passed out, right in the middle of everything.
+Rin: It just means I've still got a lot to learn.
+Rin: But that's only true for now.
+Rin: I have plenty of time.
+Rin: Someday, I'll have my turn to fight, as a full Tohsaka mage.
+Rin: That's why I'm working hard,
+Rin: and following my father's teachings.
+Rin: So that, no matter when that day comes,
+Rin: I just have to give it everything I've got, while maintaining a refined composure.
+Rin: Episode 10 Rin's Adventure
+Rider: A weak king is not even fit to decorate the throne!
+Saber: What good is a king who ignoresthe plight of the weak?
+Toki: We have nothing to lose.
+Iry: A Reality Marble?
+Arch: I shall have to kill you personally.
+Waver: Don't you wanna conquer the world?
+Waver: Next Time Discussing the Grail
+Saber: Irisviel!
+Saber: Are you okay?
+Iry: Someone waited for Kiritsugu to leave so they could mount a direct assault.
+Saber: Given the thunder and the brazenness of the attack,
+Saber: our assailant is Rider.
+Rider: Whoa, whoa, whoa.
+Rider: Greetings, Saber!
+Saber: Rider?
+Rider: I came to see the castle you were occupying, but...
+Rider: You picked a really gloomy one.
+Rider: Hmm?
+Rider: And battle armor?  Why such an unrefined outfit?
+Rider: Are you foregoing your modern-day fashions tonight?
+Saber: Rider, what are you doing here?
+Rider: Can't you tell?
+RideR: I came to share a drink with you.
+Rider: Now stop standing around slack-jawed
+Rider: and show me the way!
+Rider: Do you have a courtyardmore suited to a banquet?
+Rider: This old castle's far too dusty!
+Rider: They say the Grail will be claimed
+Rider: by the one most worthy of possessing it.
+Rider: And the war here in Fuyuki is a ritual to determine that person.
+Rider: But I say that bloodshed is unnecessary to measure worthiness.
+Rider: If we Heroic Spirits can all mutually agree on who ranks highest,
+Rider: the issue will resolve itself.
+Rider: Oh?
+Saber: So you wish to prove yourself against me first, Rider?
+Rider: Exactly.
+Rider: You, as a fellow king, will not ignore my challenge.
+Rider: Of course, this is less of a Holy Grail War and more a Holy Grail Discussion.
+Rider: Which of us is the vessel most worthy of the Grail?
+Rider: The answer lies at the bottom of this barrel.
+Arch: That's enough comedy for one night,
+Arch: mongrels.
+Saber: Archer, why are you here?
+Rider: Oh, right.  I saw him wandering about town and invited him to join us.
+Rider: You're late, Shiny!
+Rider: Though I shouldn't be surprised, since you travel by foot, unlike myself.
+Arch: Surely you don't mean to hold a feast of kings in this depressing courtyard?
+Arch: How do you intend to make amends for dragging me out here?
+Rider: Let's not be impolite.
+Rider: Here, have a drink.
+Arch: What is this swill?
+Arch: You honestly believe this is sufficient to measure a Heroic Spirit's quality?
+Rider: Seriously?
+Rider: I found this among the best for sale at the local marketplace.
+Arch: You can only say that due to your ignorance of true wine,
+Arch: you mongrel.
+Rider: Oh!
+Arch: Behold, and be amazed.
+Arch: This is the drink of a king.
+Rider: Excellent, excellent!
+Rider: Fantastic!
+Arch: Be it wine or swords,
+Arch: only the best is held in my treasury.
+Arch: I believe this alone should settle the matter of who is the true king.
+Rider: Archer.
+Rider: Your wine is exquisite and certainly deserves the finest of cups.
+Rider: Unfortunately, the Holy Grail is no mere wine goblet.
+Rider: Our discussion on the Grail cannot progress further
+Rider: until we learn your reason for seeking it.
+Arch: You do not command me, mongrel.
+Arch: First, given that we each strive for the Grail already,
+Arch: our reasons are meaningless.
+Arch: But that is beside the point.
+Arch: The Grail is mine, to begin with.
+Arch: Without exception, every treasure in this world can be traced to my collection.
+Rider: So have you held the Grail?
+Rider: Would you know it by its appearance?
+Arch: No.
+Arch: My criteria for possession are entirely different from you mongrels.
+Arch: The vastness of my storehouse
+Arch: overtook my personal knowledge of its inventory long ago.
+Arch: But that a treasure exists is enough to show that it is mine.
+Arch: For another to claim it...
+Arch: They would be the most foolhardy of thieves.
+Saber: Your words make as much sense as Caster's.
+Saber: Apparently, he is not the only Servant suffering from delusions.
+Rider: Come now.  I'm not so sure.
+Rider: I think I have an idea as to Shiny's true name.
+Rider: But, Archer,
+Rider: then you have no particular desire for the Grail to grant.
+Arch: Of course not.
+Arch: But I must punish those who would raid my coffers.
+Arch: It is a logical reason.
+Rider: Tell me, Archer.
+Rider: What are the justice and the reasoning behind that?
+Arch: The law.
+Arch: The law I enacted as king.
+Arch: If you break it, I shall punish you.
+Arch: Discussion has no place.
+Rider: If that's the case...
+Rider: There's nothing for us but combat.
+Saber: King of Conquerors.
+Saber: You accept that another may lay rightful claim to the Grail,
+Saber: yet you would take it for yourself by force?
+Saber: For what reason
+Saber: do you seek its power?
+Rider: T-To be reincarnated.
+Waver: What?
+Waver: Hey!  Don't you want to conquer the world—
+Rider: Idiot.
+Rider: No matter how powerful the magic that has brought us to this era,
+Rider: we are still Servants.
+Rider: I wish to live a real life in this world,
+Rider: as a human.
+Rider: And with my own two hands, I shall stand against Heaven and Earth!
+Rider: That is the essence of conquest!
+Rider: So it begins, persists,
+Rider: and finally ends.
+Rider: This is my path of conquest.
+Saber: That is not how a king should act.
+Rider: Oh?
+Rider: Then tell us the desires of your own heart.
+Saber: I wish to bring salvation to my homeland.
+Saber: With that omnipotent, wish-granting artifact,
+Saber: I shall change Britain's fate of destruction.
+Rider: King of Knights,
+Rider: you claim that you would change fate?
+Rider: Meaning that you would alter history itself?
+Saber: Yes.
+Saber: Even this is a wish a miracle cannot bring to pass,
+Saber: if the Grail's power is truly limitless, then surely...
+Rider: Ah, Saber...
+Rider: You are saying that
+Rider: you'd erase history shaped by you yourself?
+Saber: Yes!  Why do you question me?  And why do you laugh?!
+Saber: The homeland to which I gave my life,
+Saber: which gave me my sword, was obliterated.
+Saber: Why should it be strange that I mourn it?
+Arch: Can you believe this, Rider?
+Arch: The little girl who calls herself King of Knights
+Arch: said she gave her life to her country...
+Saber: What right have you to mock me?
+Saber: A king should be prepared to sacrifice
+Saber: if it ensures her kingdom's prosperity!
+Rider: You're wrong.
+Rider: A king offers no sacrifices.
+Rider: His country and his subjects offer themselves for him.
+Rider: Not the other way around.
+Saber: What?
+Saber: That is the reign of tyrant!
+Rider: Yes.
+Rider: We are tyrants, and thus are we heroes.
+Rider: You, Saber...
+Rider: If a king regrets his reign or its ending,
+Rider: he is simply a fool.
+Rider: A worse ruler than a tyrant.
+Saber: Iskandar, after your reign ended, your heirs were murdered,
+Saber: and your empire split into three parts.
+Saber: Have you no regrets over how things ended?
+Rider: None.
+Rider: If that came to pass by my subjects' sacrifices
+Rider: and my decree...
+Rider: The collapse was inevitable.
+Rider: I shall mourn the loss.  I shall shed tears.
+Rider: But I shall never regret.
+Saber: You...
+Rider: And never shall I wish to undo it!
+Rider: To foolishly meddle with the result would be
+Rider: an insult to every person who lived in my time!
+Saber: Only a warrior sees honor in destruction!
+Saber: What good is a king who ignores the plight of the weak?
+Saber: A just rule, under just laws!
+Saber: That is a king's desire!
+Rider: So,
+Rider: as a king, you are slave to this justice?
+Saber: That is acceptable.
+Saber: A king will sacrifice herself for her beliefs.
+Rider: Then you cannot even live your own life.
+Saber: To rule a country is to give up living for oneself.
+Saber: King of Conquerors.
+Saber: You, who seek the Grail out of
+Saber: pure selfishness, can never understand.
+Saber: You are only a man who rose to power to satisfy his endless greed!
+Rider: A king without greed is not even fit to decorate the throne!
+Rider: Saber!
+Rider: You said a king will sacrifice himself for his beliefs.
+Rider: In life, you were surely a saintly and immaculate person.
+Rider: One of noble bearing, beyond reproach.
+Rider: But who can admire the martyr's thorny path?
+Rider: Who dreams of such a life?
+Rider: A king...
+Rider: A king must lust more, laugh louder,
+Rider: and rage longer than any other.
+Rider: Every aspect, good and evil,
+Rider: must be beyond the extremes of any normal person.
+Rider: The king must be thus, to inspire envy and admiration in his followers.
+Rider: He must light a flame in each of their hearts,
+Rider: so that they long to be like their king, as well!
+Rider: King of chivalry...
+Rider: Perhaps your justice and ideals once saved your kingdom,
+Rider: and delivered its people.
+Rider: But...
+Rider: What became of those subjects you saved?
+Rider: Surely you recall.
+Saber: What?
+Rider: You saved your people, but you never led them.
+Rider: You never showed them how a king should act.
+Rider: They lost their path, and you left them to it.
+Rider: You were content to walk alone and composed,
+Rider: preferring your own pretty little dreams.
+Rider: You are not a genuine king.
+Rider: You are someone trapped by an ideal
+Rider: of a king who exists for others, not himself.
+Rider: Just a naïve little girl.
+Saber: I...
+Saber: I...
+Waver: Assassin!
+Rider: Is this your doing, Shiny?
+Arch: Tokiomi lowers himself.
+Waver: This is insane!  Why are there so many Assassins?!
+Ass1: We are the one, who has become many.
+Ass2: We are the many, who are one Servant.
+Ass3: We are that one Servant's
+Ass4: shadows.
+Waver: A Heroic Spirit with multiple personalities, each embodied?
+Waver: R-Rider, hey...
+Rider: Easy there, boy.  You need not panic.
+Rider: The generosity a king shows to his banquet guests
+Rider: is another measure of his quality as a ruler.
+Arch: You would welcome these to your table, King of Conquerors?
+Rider: Of course.
+Rider: The king's speech is for all to hear.
+Rider: Friend or foe, if they have come to listen, I shall offer a seat.
+Rider: Come now!
+Rider: If you wish to speak with us, sit and drink from this cup.
+Rider: This wine is as your blood!
+Rider: Very well.
+Rider: As I said, this wine is as your blood.
+Rider: If you insist that it be spilled,
+Rider: then so be it.
+Rider: Saber and Archer!
+Rider: Here is our banquet's final question.
+Rider: Must the king stand in solitude?
+Saber: For the king, there is
+Saber: no other way!
+Rider: Incorrect.
+Rider: You have understood nothing.
+Rider: I will have to show you now
+Rider: what a true king is.
+Ass: What the...
+Iry: A Reality Marble?
+Iry: This can't be happening.
+Iry: He summoned a vision from his mind into the real world?
+Rider: We stand upon the same sands that my armies once marched across.
+Rider: This landscape, where we shared joy and sorrow,
+Rider: is burned into the minds of all those countless heroes.
+Rider: This world lives again,
+Rider: because it still exists within our hearts!
+Rider: Behold my endless armies!
+Rider: Their bodies returned to dust,
+Rider: and their souls returned to the world as Heroic Spirits.
+Rider: They are legendary warriors, who still pledge loyalty to me!
+Rider: My bond with them is my greatest treasure,
+Rider: the path of my rule!
+Rider: The ultimate Noble Phantasm of Iskandar.
+Rider: {\i1}Ionioi Hetairoi!
+Waver: Each of those soldiers is a Servant!
+Rider: Good to see you again, partner.
+Rider: A king
+Rider: must live such an illustrious life that it embodies his peoples' ideals!
+All: Hail!  Hail!  Hail!
+Rider: It is commanding the envy of all these heroes,
+Rider: and leading them forward that makes me a king!
+Rider: Therefore,
+Rider: a king does not stand in solitude!
+Rider: His will
+Rider: equals that of each of his followers!
+All: Hail!  Hail!  Hail!
+Rider: So, then...
+Rider: Prepared to face me, Assassin?
+Rider: As you can see, this land is a desert plain.
+Rider: Unfortunately for you, this battlefield gives our numbers a distinct advantage.
+Rider: Crush them!
+Rider: That was less interesting than I'd hoped.
+Rider: Now that we have each said our piece,
+Rider: I think that's enough for the night.
+Saber: Wait, Rider.  I still...
+Rider: No, be silent.
+Rider: Tonight was a banquet of kings.
+Rider: But you, Saber...
+Rider: No longer do I acknowledge you as one.
+Rider: Little girl, wake from your sad dream.
+Rider: If you cannot,
+Rider: you'll lose the last sliver of pride you still claim as a Heroic Spirit.
+Rider: The king's dream you spoke of is a curse.
+Saber: What?
+Arch: Pay him no heed, Saber.
+Arch: You are correct.
+Arch: Follow your chosen path.
+Arch: Watching someone carry that heavy burden of kingship,
+Arch: struggling with the pain and anguish...
+Arch: It is superb to behold.
+Arch: Stand your ground, little King of Knights.
+Arch: Depending on your actions,
+Arch: you may prove worthy of still more of my affection.
+Iry: Saber...
+Saber: I remember.
+Saber: There was once a knight who left Camelot,
+Saber: saying King Arthur could never understand others' feelings.
+Saber: Maybe
+Saber: those feelings were shared by all
+Saber: who once sat at the Round Table.
+Saber: Episode 11 Discussing the Grail
+Toki: The second act is about to begin.
+Sola: I'm not an ordinary human.
+Saber: It is not as simple as that!
+Arch: Seek out your desire.
+Arch: Your path is now clear.
+Kirei: That is an evil which must be vanquished!
+Kirei: Next time The Grail Beckons
+Toki: How would you rate Rider's Noble Phantasm?
+Kirei: Equal to Gilgamesh's Gate of Babylon.
+Kirei: In other words, it is utterly immeasurable.
+Toki: Exactly as we anticipated.
+Toki: Had we faced Rider
+Toki: with no foreknowledge of his Noble Phantasm,
+Toki: we would not have been able to formulate a defense.
+Toki: The second act begins now.
+Toki: We will use the information Assassin gathered
+Toki: to mobilize Archer and exterminate our enemies.
+Toki: And in the process, the way to
+Toki: handle Rider will present itself.
+Kirei: Yes.
+Toki: You have completed your part as a Master admirably.
+Maiya: I believe
+Maiya: that every Assassin,
+Maiya: without exception, took part in last night's attack.
+Kiri: Understood.
+Kiri: By the way, Maiya,
+Kiri: how is the new workshop progressing?
+Maiya: I plan to take Madam and Saber there tomorrow morning.
+Kiri: Thanks.
+Maiya: Yes, sir.
+Maiya: Goodbye.
+Kiri: {\i1}No movement from the Tohsaka estate.
+Kiri: {\i1}Since Assassin’s sneak attack at the war's opening,
+Kiri: {\i1}Tokiomi's been holed-up behind his fortifications.
+Kiri: {\i1}It's so quiet, it's unsettling.
+Kiri: {\i1}At first glance, the Matou Master appears defenseless,
+Kiri: {\i1}an easy target.
+Kiri: {\i1}However...
+Kiri: {\i1}Given Berserker's unusual ability,
+Kiri: {\i1}if for no other reason than to keep Archer and Tohsaka in check,
+Kiri: {\i1}it's best to let him be for now.
+Kiri: {\i1}Lord El-Melloi should now be effectively incapacitated,
+Kiri: {\i1}but Lancer is still active.
+Kiri: {\i1}We should uncover his new Master
+Kiri: {\i1}as soon as possible.
+Kiri: {\i1}Caster's whereabouts are still unknown.
+Kiri: {\i1}But last night,
+Kiri: {\i1}several more children were reported missing.
+Kiri: {\i1}Their unscrupulous rampage continues unabated.
+Kiri: {\i1}Rider and his Master always travel in his flying Noble Phantasm,
+Kiri: {\i1}which makes him difficult to track.
+Kiri: {\i1}Despite his open-hearted exterior,
+Kiri: {\i1}he is a fearsome and vigilant opponent.
+Kiri: {\i1}Furthermore, given Maiya's report,
+Kiri: {\i1}his Ionioi Hertairoi has me concerned, as well.
+Kiri: {\i1}But above all else...
+Maiya: Is it prudent to assume
+Maiya: that Assassin is truly finished for good?
+Kiri: {\i1}But what of his Master?
+Kiri: {\i1}If his plan was to ally with Tohsaka anduse Assassin to gather intel,
+Kiri: {\i1}then he shouldn't have ventured outside the Fuyuki Church.
+Kiri: {\i1}But he did.
+Kiri: {\i1}His ambush at the Fuyuki Hyatt...
+Kiri: {\i1}His infiltrating the Einzbern forest...
+Kiri: {\i1}It doesn't make sense.
+Kiri: {\i1}This only explanation
+Kiri: {\i1}is that I am his target.
+Kiri: {\i1}But why?
+Kiri: {\i1}Why me?
+Kiri: {\i1}Until two days ago,
+Kiri: {\i1}he couldn't have known thatI am Saber's true Master.
+Kiri: {\i1}Kotomine Kirei,
+Kiri: {\i1}who are you?
+Kirei: I see that you're in a good mood again today,
+Kirei: Archer.
+Arch: I'm still uncertain as to the Holy Grail's true value,
+Arch: but even if it's mere scrap, I no longer care.
+Arch: Something more interesting has caught my attention.
+Arch: Kirei, for once,
+Arch: you appear to be in fine spirits, as well.
+Kirei: I'm simply relieved.
+Kirei: At long last,
+Kirei: that troublesome burden has beenlifted from my shoulders.
+Arch: What becomes of your Command Spells,
+Arch: now that they have vanished?
+Kirei: Theoretically,
+Kirei: they should return to the Holy Grail.
+Kirei: When a Servant is defeated,
+Kirei: the Master is removed from contention,
+Kirei: and the Grail reclaims the Command Spells.
+Kirei: Further,
+Kirei: should a Servant suddenly find itself with no Master,
+Kirei: the Grail will redistribute the unused Command Spells
+Kirei: to a newly chosen Master.
+Kirei: As long as the Command Spells are unused,
+Kirei: they remain in this world.
+Kirei: And at the war's conclusion,
+Kirei: any remaining Spells go to the war's mediator.
+Arch: Then, depending on how things play out,
+Arch: we could see a new Master enter the fray?
+Kirei: Correct.
+Kirei: But bear in mind, the Grail acknowledges
+Kirei: very few indeed.
+Kirei: That's why, even if there's an opening
+Kirei: for a new Master,
+Kirei: the Holy Grail will prioritize
+Kirei: those it has previously chosen.
+Arch: Well?
+Arch: Continue, Kirei.
+Kirei: That is the reason the Holy Churchgrants asylum to defeated Masters.
+Kirei: In the event that an opening for a Master appears,
+Kirei: there is a high probability that one of them
+Kirei: will be chosen to receivethe remaining Command Spells.
+Kirei: Hence,
+Kirei: participants in the Holy Grail War
+Kirei: seek to kill, not merely incapacitate,
+Kirei: any other Masters.
+Arch: Well, Kirei, by that logic,
+Arch: it's quite likely you'll obtain another set
+Arch: of Command Spells, no?
+Kirei: No.
+Kirei: If the Grail's expectation for me, as Tokiomi surmised,
+Kirei: was to ensure the Tohsaka family's advantage,
+Kirei: then I have fulfilled my role.
+Kirei: Tokiomi has already formulated a strategy
+Kirei: guaranteed to defeat the other Masters and Servants.
+Kirei: There is no further need for me.
+Iry: How do you like driving, Saber?
+Saber: This is a wondrous vehicle.
+Saber: I find myself thinking how it would have been,
+Saber: having these in my era.
+Saber: Irisviel,
+Saber: are you sure you do not mind my controlling this vehicle?
+Saber: You always seem to enjoy a "drive," as you call it.
+Iry: It's fine!
+Iry: Seeing you happy makes me happy, too.
+Iry: Another mysterious building!
+Maiya: As of today,
+Maiya: you two will use this as your base.
+Iry: Oh, could you hold onto the keys, Saber?
+Saber: As you wish, Irisviel.
+Saber: Maiya,
+Saber: what is this key for?
+Saber: It is unlike all the others.
+Maiya: An earthen storehouse in the back yard.
+Maiya: It's quite old,
+Maiya: but I have determined that it is structurally sound.
+Maiya: I had no time to prepare,
+Maiya: so this may not be an ideal place to live.
+Iry: Don't worry.
+Iry: As long as it keeps the rain out,
+Iry: you'll have no complaints from me.
+Iry: All right, Saber!
+Iry: What do you say to us exploring our new home?
+Saber: Yes, let us.
+Iry: It looks like this is one of this country's
+Iry: traditional haunted houses.
+Iry: I bet the halls have wooden flooring,
+Iry: and the rooms have woven straw mats for floors, with paper dividers between them.
+Iry: I once told Kiritsugu I wanted to see a Japanese house.
+Iry: Maybe he remembered!
+Saber: Well, does it meet your expectations?
+Iry: Oh, yes...
+Iry: I had my fun.
+Iry: But as a mage's base,
+Iry: it presents several obstacles.
+Iry: Erecting barriers won't be a problem,
+Iry: but it isn't really an ideal workshop.
+Iry: All the open space
+Iry: will let too much mana dissipate.
+Iry: I would have preferred
+Iry: a sealed room with stone or earthen walls.
+Iry: Now, that's more like it!
+Iry: It's a bit cramped,
+Iry: but I can use the same spells here that I did back at the castle.
+Iry: For now, inscribing a magical circle
+Iry: will solidify the area as my territory.
+Iry: Let's begin preparing immediately.
+Iry: Could I trouble you
+Iry: to lend me a hand, Saber?
+Iry: We need a magic circle over there, about six feet in diameter.
+Saber: All right.
+Iry: I'll also need you to prepare the mercury.
+Iry: Don't worry.  I'll help you to dispense it.
+Iry: Okay, Saber,
+Iry: could you run back to the car, and retrieve the items we brought?
+Saber: Irisviel,
+Saber: may I ask a question?
+Saber: I feel that you have deliberately avoided touching anything all day.
+Saber: Or have I imagined this?
+Saber: The driving, the keys...
+Saber: Those would hardly be a cause for concern,
+Saber: but you are not even conducting your own vital magical ritual.
+Saber: If you aren't well,
+Saber: please let me know as soon as possible.
+Saber: Should anything happen,
+Saber: I have a sworn duty to protect you.
+Saber: And I must be able to take appropriate measures.
+Iry: I'm sorry...
+Iry: It's true
+Iry: there wasn't any point in trying to hide it from you.
+Iry: Give me your hand.
+Iry: Saber,
+Iry: I'm going to squeeze your handas hard as I can, okay?
+Saber: Yes...
+Saber: Go ahead.
+Saber: Irisviel?
+Iry: This isn't a joke...
+Iry: I'm squeezing with every ounce of strength I have now.
+Iry: Bending my fingers is hard enough...
+Iry: Grasping or manipulating objects is all but impossible.
+Iry: Getting dressed this morning was brutal.
+Saber: B-But what's wrong?
+Saber: Are you injured?
+Iry: I'm just a bit under the weather,
+Iry: so I've cut off my sense of touch.
+Iry: Shutting down one of my senses
+Iry: allows me to suppress my spiritual energy.
+Iry: But it won't prevent me from carrying out other tasks.
+Iry: This flexibility is one advantage to being a homunculus.
+Saber: It is not as simple as that!
+Saber: To start with, where does your weakness derive?
+Saber: There must be a treatment!
+Iry: You may have forgotten that
+Iry: I'm not an ordinary human.
+Iry: I cannot see a doctor if I catch a cold.
+Iry: Think of it as
+Iry: a structural defect originating in my body's creation.
+Iry: It's fine.
+Iry: Well, I say that,
+Iry: but I'll have to inconvenience you with a lot of requests.
+Iry: From now on,
+Iry: I'll have to leave the driving to you.
+Iry: And you'll need to assist in my spell-casting, too.
+Iry: I apologize for all the trouble,
+Iry: but I'm counting on you,
+Iry: my knight.
+Saber: Of course.
+Saber: I apologize for prying
+Saber: into affairs that were not my own.
+Saber: Forgive me.
+Iry: Don't worry about it!
+Iry: Now, then...
+Iry: Let's finish inscribing the circle.
+Iry: If I rest within a magical circle properly connected to the Earth's ley lines,
+Iry: my condition should improve.
+Saber: Understood.
+Saber: I shall retrieve the supplies.
+Kirei: Saber's Master...
+Kirei: He's nothing but a mercenary
+Kirei: hired by the Einzberns, in the name of their long-held obsession
+Kirei: to make the Holy Grail's descent a reality.
+Arch: I'm glad that you finally realize that.
+Arch: He's merely another mongrel,
+Arch: just like the rest of them,
+Arch: scrabbling after my treasure for the most pathetic and mundane of reasons...
+Kirei: After all the trouble I went through to discover their motives,
+Kirei: is that all you have to say?
+Kirei: It would seem my efforts have been pointless.
+Arch: Pointless?
+Arch: What do you mean by that, Kirei?
+Arch: All the hard work you and Assassin
+Arch: put in has proven very helpful, has it not?
+Kirei: Do you mock me,
+Kirei: King of Heroes?
+Arch: You don't see it?
+Arch: Well, it's unsurprising.
+Arch: You are a man who has yet to understand the meaning of joy.
+Arch: Even if you are unaware of it,
+Arch: your soul instinctively pursues joy.
+Arch: That instinct manifests on the surface as curiosity or interest.
+Arch: Thus, Kirei,
+Arch: discussing with me those matters that
+Arch: you have observed or learned of,
+Arch: has been quite significant.
+Arch: Your words have revealed
+Arch: where your interest most heavily lies.
+Arch: Let us first
+Arch: disregard the man you've intentionally omitted.
+Arch: Any interest you're consciously aware of is simple fixation.
+Arch: Moving on...
+Arch: Which of the remaining four Masters
+Arch: interested you most passionately?
+Arch: Berserker's Master...
+Arch: Kariya, was it not?
+Arch: Kirei,
+Arch: you gave a report of exacting detail regarding that man's activities.
+Kirei: His situation is extremely complicated.
+Kirei: Naturally, more information was required to explain it.
+Arch: I think not.
+Arch: Rather, because you wished to understand
+Arch: this "complicated situation," you ordered Assassin
+Arch: to investigate him alone in such depth.
+Arch: All to satisfy your subconscious interest.
+Kirei: I'll admit I made a poor decision.
+Kirei: In the long term, Matou Kariya
+Kirei: poses no real threat and is not worth observing.
+Kirei: By misjudging his priority,
+Kirei: I have inadvertently invited your unsought attention.
+Arch: Is that so?
+Arch: Can you imagine a scenario wherein,by a miracle and sheer luck,
+Arch: Berserker and his Master survive to the end?
+Arch: Tell me what would happen next.
+Arch: Come, Kirei...
+Arch: Isn't it about time you realized
+Arch: the true reason for my question?
+Kirei: Tell me, Archer.
+Kirei: What point is there in imagining what might happen,
+Kirei: should Matou Kariya prevail?
+Arch: There is none.
+Arch: None at all.
+Arch: Oh, don't look so angry.
+Arch: Consider it...
+Arch: How is it that Kotomine Kirei never
+Arch: noticed the pointlessness of this speculation?
+Arch: Do you not find some undeniable significance in that fact?
+Kirei: Enlighten me, Archer.
+Arch: Had I posed to you
+Arch: the same question, but about one of the other Masters,
+Arch: you would immediately have concluded the exercise was pointless,
+Arch: never even bothering to consider it.
+Arch: But with Kariya,the result was quite different.
+Arch: Rather than dismissing the thought instantly,
+Arch: you allowed your imagination to indulge in ridiculous speculation.
+Arch: You completely forgot the futility,
+Arch: not believing your effort wasted.
+Arch: To put it simply, you enjoyed yourself.
+Arch: Rejoice, Kirei.
+Arch: You have learned
+Arch: the meaning of entertainment.
+Kirei: Entertainment...
+Kirei: You speak of happiness?
+Arch: Precisely.
+Kirei: There is no happiness
+Kirei: to be found in Matou Kariya's fate.
+Kirei: Every day he continues living
+Kirei: will only compound his agony.
+Kirei: His only salvation would be
+Kirei: a quick death.
+Arch: Kirei...
+Arch: Why must you define bliss so narrowly?
+Arch: Where lies the contradiction in seeing pain and suffering
+Arch: as other forms of bliss?
+Arch: There is no limit to the forms of happiness.
+Arch: You remain confused because you fail to comprehend this.
+Kirei: Because it is wrong!
+Kirei: King of Heroes,
+Kirei: one with your twisted tastes,
+Kirei: may find sweetness
+Kirei: in the misery of others.
+Kirei: But that reveals the soul of a sinner!
+Kirei: That is an evil which must be vanquished!
+Kirei: Above all, it is incompatible with my faith!
+Arch: So you classify happiness itself as a sin.
+Arch: You have utterly deceived yourself.
+Arch: You truly are an intriguing man.
+Kirei: This pain...
+Arch: Oh?
+Arch: Just as I anticipated.
+Arch: Though sooner than I'd expected, too.
+Kirei: It can't be...
+Kirei: There are no free Servants.
+Kirei: Why has a new Master been chosen?
+Arch: Perhaps the Holy Grail
+Arch: also harbors high expectations for Kotomine Kirei.
+Arch: Kirei,
+Arch: you should heed the Grail's summons.
+Arch: There is no question now
+Arch: that you do indeed have a wish for the Grail to grant.
+Kirei: I have a wish
+Kirei: for the Holy Grail?
+Arch: If the Grail's power is truly omnipotent,
+Arch: then it can show you the true form of your deepest desire,
+Arch: buried deep within your heart,
+Arch: of which you are still unaware.
+Kirei: So you're saying that because I have no idea of my desire,
+Kirei: I should take the Holy Grail for myself,
+Kirei: to learn my wish?
+Kirei: But...
+Kirei: First, I would have to destroy the wishes of six others,
+Kirei: before that could happen.
+Kirei: If I truly sought the Holy Grail for my own desire,
+Kirei: my teacher would become
+Kirei: my enemy, as well.
+Arch: You'd better find the strongest Servant you can,
+Arch: if you mean to do battle with me.
+Arch: You'll have to start
+Arch: by stealing a Servant
+Arch: still contracted to one of the other Masters.
+Arch: Then you could...
+Arch: No, I won't say it.
+Arch: What happens next is up to you.
+Arch: Seek out your desire.
+Arch: Your search will lead you to entertainment.
+Arch: That entertainment will bring enjoyment.
+Arch: And that enjoyment will give rise to true joy.
+Arch: Your path is now clear, Kirei.
+Arch: So clear, there can be no room left to doubt.
+Arch: Episode 12: The Grail Beckons
+Rider: I shall hit first!
+Sola: If you wish to kill them, here is your chance.
+Saber: This ends now!
+Ryuu: The world is filled with God's love.
+Cast: Once more, we set out to raise salvation's banner!
+Cast: Next time The Forbidden Feast of Madness
+Rider: Oceanus...
+Rider: Here we are, just strolling into town.
+Rider: Why the change of heart?
+Waver: No reason.
+Waver: I just felt like it.
+Waver: Besides, you keep talking aboutgoing out and seeing the sights.
+Rider: Exploring the exotic markets of a foreign land
+Rider: is just as exciting as fighting a war on its soil.
+Waver: I find it rather pathetic for one country to invade another
+Waver: for a reason like that.
+Rider: What's that, boy?
+Rider: You speak as though you've experienced it yourself.
+Waver: Never mind.
+Waver: It's nothing for you to worry about.
+Ryuu: No...
+Ryuu: This is too cruel!
+Ryuu: We devoted ourselves to this masterpiece...
+Ryuu: They've gone too far!
+Ryuu: How...
+Ryuu: How can they call themselves human?!
+Cast: Ryuunosuke...
+Cast: Only a very select few are capable
+Cast: of understanding true beauty and harmony.
+Cast: To the vulgar masses, the philistines,
+Cast: such beauty is but a target for destruction.
+Ryuu: Maybe we had too much fun with it.
+Ryuu: And now, we're being punished.
+Cast: Heed my words, Ryuunosuke.
+Cast: God does not punish humans!
+Cast: He merely toys with their lives!
+Ryuu: S-Sir?
+Cast: Once, I committed atrocities so numerous
+Cast: that I was like an embodiment of blasphemy in this world.
+Cast: But no matter how many I killed or maimed,
+Cast: my punishment never came!
+Cast: And when I finally paused,
+Cast: I realized my pursuit of the most heinous cruelties
+Cast: had gone uninterrupted for eight years.
+Cast: In the end, it was not God who brought ruin unto me,
+Cast: but the selfishness of my fellow man!
+Cast: The Church and monarchy convicted and executed me,
+Cast: under the pretense of justice, so they could rob me
+Cast: of my wealth and my land!
+Cast: My rampage was halted not by divine judgment.  Far from it.
+Cast: It was simple thievery!
+Ryuu: But, sir...
+Ryuu: God still exists.
+Cast: Why would you, a faithless man who knows nothing of miracles, say such a thing?
+Ryuu: Because, on the surface, this world looks bland and boring.
+Ryuu: But the more you look, the morefun and surprising things you find!
+Ryuu: That's how I've always felt.
+Ryuu: This world, full of strange and wonderful things,
+Ryuu: could not have happened by chance.
+Ryuu: All you need to do is resolve to enjoy it,
+Ryuu: and this world is the finest entertainment!
+Ryuu: You can't have a story of five billion characters
+Ryuu: without an entertainer for an author.
+Ryuu: And if we're talking about this author,
+Ryuu: God is the only name that fits.
+Cast: Then tell me, Ryuunosuke,
+Cast: do you believe that God loves humans?
+Ryuu: From the bottom of my heart!
+Ryuu: This world is filled with God's love.
+Ryuu: If God spends his every moment writing a script of the world,
+Ryuu: it must be a labor of love.
+Ryuu: I bet he's having a blast!
+Ryuu: God is creating a work of art.
+Ryuu: He loves mankind's ideals, like bravery and hope.
+Ryuu: And, by the same token, he loves despair,
+Ryuu: bloodshed, and cries of anguish!
+Ryuu: If he didn't,
+Ryuu: he wouldn't have made the insides of all creatures so vibrant.
+Ryuu: That's why I'm sure that this world is filled with God's love.
+Cast: In this era when mankind shuns faith and states become secular,
+Cast: I have witnessed the birth of a beautiful, new creed!
+Cast: You have impressed me, Ryuunosuke.
+Cast: My Master!
+Ryuu: Aw, come on, you're making me blush.
+Cast: But according to your beliefs,
+Cast: my blasphemies were mere comedy, correct?
+Ryuu: No, a true entertainer embraces the villain's role
+Ryuu: and leaves the audience smiling.
+Ryuu: I believe that God loves playing wise guy to your unrelenting straight man.
+Cast: Therefore, blasphemy and praise
+Cast: are equal forms of worship?!
+Cast: Ryuunosuke!
+Cast: You are the prophet for a new philosophy!
+Cast: A God who holds all mankind by the marionettes' strings,
+Cast: yet is himself a part of the act!
+Cast: I understand...
+Cast: His cruel designs finally come clear.
+Cast: Very well.
+Cast: Then let us create more despair and terror
+Cast: to dye his gardens in even brighter shades.
+Cast: We shall teach our Heavenly author
+Cast: that he is not the only one who knows how to entertain!
+Ryuu: That means we're gonna do something wild again, right?
+Ryuu: So cool!
+Waver: {\i1}"After his victory,
+Waver: {\i1}the king left the governing and politics of his new territory to the local nobility,
+Waver: {\i1}while he continued leading his army on their eastward march."
+Waver: {\i1}Just like in my dream.
+Waver: {\i1}All he wanted to see was the ocean at the world's end.
+Waver: {\i1}He continued his campaign
+Waver: {\i1}to see Oceanus with his own eyes.
+Rider: Hey, boy!
+Rider: Where are you?
+Rider: There you are.
+Rider: You're such a shrimp, I keep losing track of you amidst these shelves.
+Rider: I've been searching for a while!
+Waver: Normal people are shorter than bookshelves, idiot.
+Waver: What did you buy?
+Rider: Look...
+Rider: The new {\i1}Admirable Grand Strategy{\i0} game came out today!
+Rider: And this is the first-run special edition!
+Rider: My luck stat must be pretty high!
+Waver: You know...
+Waver: You can buy the game by itself, but you still need to have a console to play it.
+Rider: All taken care of.
+Rider: Let's go, boy.
+Rider: We'll play each other when we return.
+Rider: I bought two controllers.
+Waver: I'm not interested in playing with low-brow toys.
+Rider: Sheesh...
+Rider: Can you never be a bit more open-minded, every once in a while?
+Rider: Do you never try to find something fun?
+Waver: Shut up.
+Waver: If I had the time to waste,
+Waver: I'd spend it searching for Truth.
+Rider: And so, your search has led you to...
+Rider: This book?
+Rider: Hey, this is about me!
+Rider: What a funny kid you are.
+Rider: You have the genuine article before you.
+Rider: If you want to know something, simply ask.
+Waver: Fine, I will!
+Waver: The history books all say you were extremely short.
+Waver: So why did you materialize as a ridiculous giant?
+Rider: It states that I was short?
+Rider: Well, I suppose you cannot trust a book
+Rider: if you do not know its author.
+Waver: So it's wrong, but you're not mad?
+Rider: No, I really care not.
+Rider: Is that strange?
+Waver: Those of power always try to leave their mark on history,
+Waver: in any era.
+Rider: I suppose that having your name recorded in books
+Rider: is a form of immortality.
+Rider: But if that means that my name
+Rider: will appear in books for a couple thousand years...
+Rider: I'd like to receive
+Rider: one percent of that time in added to my lifespan.
+Waver: So it's true that you died in your early thirties?
+Rider: Yes, that one is right.
+Ryuu: Sir!
+Ryuu: Show God a straight man routine
+Ryuu: that will leave his jaw on the floor!
+Ryuu: Sir!
+Cast: You shan't be disappointed, Ryuunosuke!
+Cast: This will be, as you might say, the coolest thing you'll ever see!
+Ryuu: Really?
+Ryuu: I can't wait!
+Ryuu: This is gonna rock.
+Rider: Why so quiet?
+Waver: Nothing...
+Waver: I was just lamenting how boring you are.
+Rider: Oh, yeah?
+Rider: So you admit you're bored.
+Rider: Stop being obstinate, and try this game with me.
+Waver: No!
+Waver: Claiming the Grail just because I have such a powerful Servant...
+Waver: I don't feel like I could be proud of that.
+Waver: I would've been better off summoning Assassin instead.
+Rider: Somehow, I think not.
+Rider: You'd likely be dead by now.
+Waver: That suits me fine!
+Waver: I have no qualms about dying while fighting my own battles.
+Waver: That's why I'm fighting in the Holy Grail War.
+Waver: But now...
+Rider: What would you have me say?
+Rider: Had you perhaps impressed me with a more ambitious wish,
+Rider: I would have been more willing to obey you.
+Rider: But if all you want is to be taller...
+Waver: I never said that!
+Rider: Don't be in such a rush.
+Rider: No one said the Grail War
+Rider: must be your life's most important event.
+Waver: What?
+Rider: Someday, when you find the path in life in which you can take true pride,
+Rider: you must fight for it, whether or desire to or not.
+Rider: Then you'll have the chance to seek your own battlefield.
+Waver: I know I'm not the only one dissatisfied
+Waver: with our contract.
+Waver: You don't like it, either!
+Waver: Stuck with me for a Master!
+Waver: If you'd made a pact with a different Master,
+Waver: you could've breezed your way to victory.
+Rider: Probably.
+Rider: Look at this, boy.
+Rider: This is the opponent I'm fighting.
+Rider: Now draw a picture of us two,
+Rider: right next to this enemy.
+Rider: And do it to scale, that we may compare ourselves.
+Waver: That's...
+Rider: Impossible, right?
+Rider: Compared to the enemy we're facing,
+Rider: you and I are the same.
+Rider: No more than dots!
+Rider: What's the point in comparing our heights?
+Rider: That is what makes this exciting!
+Rider: The smallest, the weakest...
+Rider: It doesn't matter!
+Rider: I should still wish to go and take over the world,
+Rider: with nothing more than my tiny dot of a body!
+Rider: Within my chest beats the heart of the King of Conquerors!
+Waver: So then, you don't care who your Master is?
+Waver: It doesn't matter to you how weak I am.
+Rider: Who said that?
+Rider: Your own feeling of inferiority
+Rider: signals a fine military leader.
+Rider: Despite your grumbling,
+Rider: you recognize how small you are.
+Rider: And even still,
+Rider: you choose to ignore it, to claw your way to greatness.
+Waver: That's not a compliment.
+Waver: It's an insult.
+Rider: That's true, boy.
+Rider: You are a fool, through and through.
+Rider: Your desires are beyond your abilities.
+Rider: "Glory awaits beyond the horizon."
+Rider: In my day,
+Rider: that was one of life's basic tenets.
+Waver: That's why you kept charging east, like a crazed maniac?
+Rider: Indeed.
+Rider: I wanted to see Oceanus with my own eyes.
+Rider: Unfortunately, my dream never came true.
+Waver: {\i1}He cannot see the ocean?
+Rider: Oceanus is still my final destination.
+Rider: A dream that never ends.
+Waver: {\i1}That ocean is the place Rider keeps in his heart.
+Rider: Go ahead and laugh.
+Rider: Two thousand years later, and still I have the same dream.
+Rider: Every bit the fool, as well.
+Rider: And so, boy...
+Rider: A pact with a fellow idiot seems ideal.
+Rider: The river.
+Iry: Caster...
+Saber: Caster must be performing some kind of incredible spell,
+Saber: judging by the extreme use of mana.
+Saber: It can be nothing else.
+Cast: Welcome, my holy virgin.
+Cast: I am thrilled to see you again.
+Saber: You will not learn, monster.
+Saber: What are you playing at tonight?
+Cast: My apologies, Jeanne.
+Cast: You are not tonight's guest of honor.
+Cast: Of course, if you wish to attend the festivities,
+Cast: it would please me to no end.
+Cast: I, Gilles de Rais,
+Cast: have prepared a feast of death and decadence,
+Cast: where all may eat their fill!
+Cast: Once more, we set out to raise salvation's banner!
+Iry: Caster is being absorbed?
+Cast: You, who have been abandoned, gather once more.
+Cast: I shall lead you.
+Cast: I shall control you!
+Cast: We have been degraded and humiliated,
+Cast: and God himself will know our fury!
+Cast: Oh, God in Heaven,
+Cast: I praise your holy name, even as I denounce it!
+Saber: That's...
+Cast: Insolent God!
+Cast: Cruel God!
+Cast: We shall drag you down from your throne.
+Rider: Greetings, King of Knights.
+Saber: King of Conquerors...
+Rider: Easy, easy.
+Rider: Let's call a truce for tonight.
+Rider: We shall have no chance to fight each other,
+Rider: if we cannot first obliterate that beast.
+Rider: I've said as much to the other Servants.
+Rider: Lancer has agreed.
+Rider: He'll be here any moment.
+Saber: Very well.
+Saber: We shall fight by your side.
+Saber: King of Conquerors, though it will be a short alliance,
+Saber: for tonight, I pledge my loyalty.
+Waver: Hey, Einzbern, do you guys have a plan?
+Waver: Lancer said you fought Caster before.
+Iry: We must defeat him as quickly as possible.
+Iry: Right now, Caster is providing the mana
+Iry: that creature needs to maintain its form in this world.
+Iry: But if it finds its own food source and becomes able to sustain itself, all is lost.
+Iry: We must kill Caster before that happens.
+Rider: I see.
+Rider: So we must end this before it reaches shore
+Rider: and starts to feed.
+Rider: But Caster has hidden himself deep inside the creature's body.
+Rider: What is your plan?
+Lance: We force him out.
+Lance: That is our only way.
+Lance: If we can expose his Noble Phantasm,
+Lance: my Gáe Dearg can break the spell in one strike.
+Saber: Lancer, can you throw that spear through
+Saber: Caster's Noble Phantasm from this coast?
+Lance: If I can see it, that is simple.
+Saber: Then Rider and I shall meet it headlong.
+Saber: How sounds that to you, King of Conquerors?
+Rider: Fine by me.
+Rider: My chariot can travel anywhere, with or without a road.
+Rider: But how will you attack, while the enemy remains in the river, Saber?
+Saber: I have the Lady of the Lake's protection.
+Saber: No water can impede me, no matter its depth.
+Rider: That is rare indeed.
+Rider: I want you for my army even more.
+Saber: You'll pay for that line later.
+Saber: But now, we must pull Caster from that monster.
+Rider: Indeed!
+Rider: Then, I shall strike first!
+Iry: Good luck, Saber.
+Saber: This ends now, Caster!
+Saber: Episode 13: The Forbidden Feast of Madness
+Ryuu: Go get them, Sir Bluebeard!
+Zou: Such a failure is unprecedented.
+Arch: You wish me to draw Ea, my greatest treasure, here?
+Waver: Saber!
+Toki: Please wait, King of Heroes!
+Rider: What a guy...
+Kari: I'll slaughter you all! Kill every last one!
+Kari: Fate/Zero, 2nd Season: Starting April, 2012
